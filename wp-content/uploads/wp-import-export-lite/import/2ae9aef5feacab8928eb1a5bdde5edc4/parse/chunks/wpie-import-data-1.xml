@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <termid><![CDATA[125]]></termid>
+    <termname><![CDATA[Achats]]></termname>
+    <termslug><![CDATA[achats]]></termslug>
+    <description><![CDATA[Achats]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[126]]></termid>
+    <termname><![CDATA[Finance]]></termname>
+    <termslug><![CDATA[finance]]></termslug>
+    <description><![CDATA[Finance]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[127]]></termid>
+    <termname><![CDATA[IT / SI]]></termname>
+    <termslug><![CDATA[it-si]]></termslug>
+    <description><![CDATA[IT / SI]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[128]]></termid>
+    <termname><![CDATA[Logistique et supply chain]]></termname>
+    <termslug><![CDATA[logistique-et-supply-chain]]></termslug>
+    <description><![CDATA[Logistique et supply chain]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[129]]></termid>
+    <termname><![CDATA[Marketing et communication]]></termname>
+    <termslug><![CDATA[marketing-et-communication]]></termslug>
+    <description><![CDATA[Marketing et communication]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[130]]></termid>
+    <termname><![CDATA[Production]]></termname>
+    <termslug><![CDATA[production]]></termslug>
+    <description><![CDATA[Production]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[131]]></termid>
+    <termname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></termname>
+    <termslug><![CDATA[rd-conception-innovation]]></termslug>
+    <description><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[132]]></termid>
+    <termname><![CDATA[Relation client]]></termname>
+    <termslug><![CDATA[relation-client]]></termslug>
+    <description><![CDATA[Relation client]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[133]]></termid>
+    <termname><![CDATA[Ressources Humaines]]></termname>
+    <termslug><![CDATA[ressources-humaines]]></termslug>
+    <description><![CDATA[Ressources Humaines]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[134]]></termid>
+    <termname><![CDATA[Ventes &amp;amp; Distribution]]></termname>
+    <termslug><![CDATA[ventes-distribution]]></termslug>
+    <description><![CDATA[Ventes &amp;amp; Distribution]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[135]]></termid>
+    <termname><![CDATA[Catalogues]]></termname>
+    <termslug><![CDATA[catalogues]]></termslug>
+    <description><![CDATA[Catalogues]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[5]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[136]]></termid>
+    <termname><![CDATA[Dématérialisation des factures]]></termname>
+    <termslug><![CDATA[dematerialisation-des-factures]]></termslug>
+    <description><![CDATA[Dématérialisation des factures]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[3]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[137]]></termid>
+    <termname><![CDATA[e-procurement]]></termname>
+    <termslug><![CDATA[e-procurement]]></termslug>
+    <description><![CDATA[e-procurement]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[2]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[138]]></termid>
+    <termname><![CDATA[Gestion des contrats]]></termname>
+    <termslug><![CDATA[gestion-des-contrats]]></termslug>
+    <description><![CDATA[Gestion des contrats ]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[3]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[139]]></termid>
+    <termname><![CDATA[Places de marchés]]></termname>
+    <termslug><![CDATA[places-de-marches]]></termslug>
+    <description><![CDATA[Places de marchés]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[2]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[140]]></termid>
+    <termname><![CDATA[Relations fournisseurs]]></termname>
+    <termslug><![CDATA[relations-fournisseurs]]></termslug>
+    <description><![CDATA[Relations fournisseurs]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[3]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[141]]></termid>
+    <termname><![CDATA[Risque fournisseurs]]></termname>
+    <termslug><![CDATA[risque-fournisseurs]]></termslug>
+    <description><![CDATA[Risque fournisseurs]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[2]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[142]]></termid>
+    <termname><![CDATA[Sourcing]]></termname>
+    <termslug><![CDATA[sourcing]]></termslug>
+    <description><![CDATA[Sourcing]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[143]]></termid>
+    <termname><![CDATA[Transactions B2B]]></termname>
+    <termslug><![CDATA[transactions-b2b]]></termslug>
+    <description><![CDATA[Transactions B2B]]></description>
+    <parentid><![CDATA[125]]></parentid>
+    <parentname><![CDATA[Achats]]></parentname>
+    <parentslug><![CDATA[achats]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[144]]></termid>
+    <termname><![CDATA[Comptabilité générale et auxiliaire]]></termname>
+    <termslug><![CDATA[comptabilite-generale-et-auxiliaire]]></termslug>
+    <description><![CDATA[Comptabilité générale et auxiliaire]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[145]]></termid>
+    <termname><![CDATA[Consolidation]]></termname>
+    <termslug><![CDATA[consolidation]]></termslug>
+    <description><![CDATA[Consolidation]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[146]]></termid>
+    <termname><![CDATA[Corporate Performance Management]]></termname>
+    <termslug><![CDATA[corporate-performance-management]]></termslug>
+    <description><![CDATA[Corporate Performance Management]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[147]]></termid>
+    <termname><![CDATA[Crédit clients]]></termname>
+    <termslug><![CDATA[credit-clients]]></termslug>
+    <description><![CDATA[Crédit clients]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[148]]></termid>
+    <termname><![CDATA[Gestion fiscale]]></termname>
+    <termslug><![CDATA[gestion-fiscale]]></termslug>
+    <description><![CDATA[Gestion fiscale]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[149]]></termid>
+    <termname><![CDATA[Immobilisations]]></termname>
+    <termslug><![CDATA[immobilisations]]></termslug>
+    <description><![CDATA[Immobilisations]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[150]]></termid>
+    <termname><![CDATA[Notes de frais]]></termname>
+    <termslug><![CDATA[notes-de-frais]]></termslug>
+    <description><![CDATA[Notes de frais]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[151]]></termid>
+    <termname><![CDATA[Planification et élaboration budgétaire]]></termname>
+    <termslug><![CDATA[planification-et-elaboration-budgetaire]]></termslug>
+    <description><![CDATA[Planification et élaboration budgétaire]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[152]]></termid>
+    <termname><![CDATA[Supply chain financière]]></termname>
+    <termslug><![CDATA[supply-chain-financiere]]></termslug>
+    <description><![CDATA[Supply chain financière]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[153]]></termid>
+    <termname><![CDATA[Transactions bancaires et paiements]]></termname>
+    <termslug><![CDATA[transactions-bancaires-et-paiements]]></termslug>
+    <description><![CDATA[Transactions bancaires et paiements]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[154]]></termid>
+    <termname><![CDATA[Trésorerie]]></termname>
+    <termslug><![CDATA[tresorerie]]></termslug>
+    <description><![CDATA[Trésorerie]]></description>
+    <parentid><![CDATA[126]]></parentid>
+    <parentname><![CDATA[Finance]]></parentname>
+    <parentslug><![CDATA[finance]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[155]]></termid>
+    <termname><![CDATA[Administration et supervision de réseaux]]></termname>
+    <termslug><![CDATA[administration-et-supervision-de-reseaux]]></termslug>
+    <description><![CDATA[Administration et supervision de réseaux]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[156]]></termid>
+    <termname><![CDATA[Cloud Access Security Broker (CASB)]]></termname>
+    <termslug><![CDATA[cloud-access-security-broker-casb]]></termslug>
+    <description><![CDATA[Cloud Access Security Broker (CASB)]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[157]]></termid>
+    <termname><![CDATA[Développement d'applications]]></termname>
+    <termslug><![CDATA[developpement-dapplications]]></termslug>
+    <description><![CDATA[Développement d'applications]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[158]]></termid>
+    <termname><![CDATA[Exploitation et production informatique]]></termname>
+    <termslug><![CDATA[exploitation-et-production-informatique]]></termslug>
+    <description><![CDATA[Exploitation et production informatique]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[159]]></termid>
+    <termname><![CDATA[Gestion centralisée des postes de travail]]></termname>
+    <termslug><![CDATA[gestion-centralisee-des-postes-de-travail]]></termslug>
+    <description><![CDATA[Gestion centralisée des postes de travail]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[160]]></termid>
+    <termname><![CDATA[Gestion d'audit]]></termname>
+    <termslug><![CDATA[gestion-daudit]]></termslug>
+    <description><![CDATA[Gestion d'audit]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[161]]></termid>
+    <termname><![CDATA[Gestion de conférences]]></termname>
+    <termslug><![CDATA[gestion-de-conferences]]></termslug>
+    <description><![CDATA[Gestion de conférences]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[162]]></termid>
+    <termname><![CDATA[Gestion de conteneurs]]></termname>
+    <termslug><![CDATA[gestion-de-conteneurs]]></termslug>
+    <description><![CDATA[Gestion de conteneurs]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[163]]></termid>
+    <termname><![CDATA[Gestion de la téléphonie]]></termname>
+    <termslug><![CDATA[gestion-de-la-telephonie]]></termslug>
+    <description><![CDATA[Gestion de la téléphonie]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[164]]></termid>
+    <termname><![CDATA[Gestion de messagerie]]></termname>
+    <termslug><![CDATA[gestion-de-messagerie]]></termslug>
+    <description><![CDATA[Gestion de messagerie]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[165]]></termid>
+    <termname><![CDATA[Gestion de microservices]]></termname>
+    <termslug><![CDATA[gestion-de-microservices]]></termslug>
+    <description><![CDATA[Gestion de microservices]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[166]]></termid>
+    <termname><![CDATA[Gestion de projets]]></termname>
+    <termslug><![CDATA[gestion-de-projets]]></termslug>
+    <description><![CDATA[Gestion de projets]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[167]]></termid>
+    <termname><![CDATA[Gestion de sauvegarde]]></termname>
+    <termslug><![CDATA[gestion-de-sauvegarde]]></termslug>
+    <description><![CDATA[Gestion de sauvegarde]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[168]]></termid>
+    <termname><![CDATA[Gestion des actifs et des configurations]]></termname>
+    <termslug><![CDATA[gestion-des-actifs-et-des-configurations]]></termslug>
+    <description><![CDATA[Gestion des actifs et des configurations]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[169]]></termid>
+    <termname><![CDATA[Gestion des API]]></termname>
+    <termslug><![CDATA[gestion-des-api]]></termslug>
+    <description><![CDATA[Gestion des API]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[170]]></termid>
+    <termname><![CDATA[Gestion des applications mobiles]]></termname>
+    <termslug><![CDATA[gestion-des-applications-mobiles]]></termslug>
+    <description><![CDATA[Gestion des applications mobiles]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[171]]></termid>
+    <termname><![CDATA[Gestion des communications]]></termname>
+    <termslug><![CDATA[gestion-des-communications]]></termslug>
+    <description><![CDATA[Gestion des communications]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[172]]></termid>
+    <termname><![CDATA[Gestion des données - SGBD]]></termname>
+    <termslug><![CDATA[gestion-des-donnees-sgbd]]></termslug>
+    <description><![CDATA[Gestion des données - SGBD]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[173]]></termid>
+    <termname><![CDATA[Gestion des identités et des accès]]></termname>
+    <termslug><![CDATA[gestion-des-identites-et-des-acces]]></termslug>
+    <description><![CDATA[Gestion des identités et des accès]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[174]]></termid>
+    <termname><![CDATA[Gestion des identités et des accès (IAM)]]></termname>
+    <termslug><![CDATA[gestion-des-identites-et-des-acces-iam]]></termslug>
+    <description><![CDATA[Gestion des identités et des accès (IAM)]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[175]]></termid>
+    <termname><![CDATA[Gestion des licences logicielles]]></termname>
+    <termslug><![CDATA[gestion-des-licences-logicielles]]></termslug>
+    <description><![CDATA[Gestion des licences logicielles]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[176]]></termid>
+    <termname><![CDATA[Gestion des périphériques mobiles]]></termname>
+    <termslug><![CDATA[gestion-des-peripheriques-mobiles]]></termslug>
+    <description><![CDATA[Gestion des périphériques mobiles]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[177]]></termid>
+    <termname><![CDATA[Gestion des services informatique - ITSM]]></termname>
+    <termslug><![CDATA[gestion-des-services-informatique-itsm]]></termslug>
+    <description><![CDATA[Gestion des services informatique - ITSM]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[178]]></termid>
+    <termname><![CDATA[Gestion documentation]]></termname>
+    <termslug><![CDATA[gestion-documentation]]></termslug>
+    <description><![CDATA[Gestion documentation]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[179]]></termid>
+    <termname><![CDATA[Gestion du cycle de vie des applications (ALM)]]></termname>
+    <termslug><![CDATA[gestion-du-cycle-de-vie-des-applications-alm]]></termslug>
+    <description><![CDATA[Gestion du cycle de vie des applications (ALM)]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[180]]></termid>
+    <termname><![CDATA[Gestion financière des services IT]]></termname>
+    <termslug><![CDATA[gestion-financiere-des-services-it]]></termslug>
+    <description><![CDATA[Gestion financière des services IT]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[181]]></termid>
+    <termname><![CDATA[Informations et événements de sécurité (SIEM)]]></termname>
+    <termslug><![CDATA[informations-et-evenements-de-securite-siem]]></termslug>
+    <description><![CDATA[Informations et événements de sécurité (SIEM)]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[182]]></termid>
+    <termname><![CDATA[Modélisation d'architecture]]></termname>
+    <termslug><![CDATA[modelisation-darchitecture]]></termslug>
+    <description><![CDATA[Modélisation d'architecture]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[183]]></termid>
+    <termname><![CDATA[Operating Systems]]></termname>
+    <termslug><![CDATA[operating-systems]]></termslug>
+    <description><![CDATA[Operating Systems]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[184]]></termid>
+    <termname><![CDATA[Outil d'intégration des applications - EAI]]></termname>
+    <termslug><![CDATA[outil-dintegration-des-applications-eai]]></termslug>
+    <description><![CDATA[Outil d'intégration des applications - EAI]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[185]]></termid>
+    <termname><![CDATA[Outils bureautiques]]></termname>
+    <termslug><![CDATA[outils-bureautiques]]></termslug>
+    <description><![CDATA[Outils bureautiques]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[186]]></termid>
+    <termname><![CDATA[Outils de supervisions]]></termname>
+    <termslug><![CDATA[outils-de-supervisions]]></termslug>
+    <description><![CDATA[Outils de supervisions]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[187]]></termid>
+    <termname><![CDATA[Outils de test]]></termname>
+    <termslug><![CDATA[outils-de-test]]></termslug>
+    <description><![CDATA[Outils de test]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[188]]></termid>
+    <termname><![CDATA[Outils middleware]]></termname>
+    <termslug><![CDATA[outils-middleware]]></termslug>
+    <description><![CDATA[Outils middleware]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[189]]></termid>
+    <termname><![CDATA[Pilotage des développements agiles]]></termname>
+    <termslug><![CDATA[pilotage-des-developpements-agiles]]></termslug>
+    <description><![CDATA[Pilotage des développements agiles]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[190]]></termid>
+    <termname><![CDATA[Plan de reprise d'activité PRA/PCA]]></termname>
+    <termslug><![CDATA[plan-de-reprise-dactivite-pra-pca]]></termslug>
+    <description><![CDATA[Plan de reprise d'activité PRA/PCA]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[191]]></termid>
+    <termname><![CDATA[Plateforme échange B2B]]></termname>
+    <termslug><![CDATA[plateforme-echange-b2b]]></termslug>
+    <description><![CDATA[Plateforme échange B2B]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[192]]></termid>
+    <termname><![CDATA[Produits non encore catégorisés]]></termname>
+    <termslug><![CDATA[produits-non-encore-categorises]]></termslug>
+    <description><![CDATA[Produits non encore catégorisés]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[193]]></termid>
+    <termname><![CDATA[Protection des données - RGPD]]></termname>
+    <termslug><![CDATA[protection-des-donnees-rgpd]]></termslug>
+    <description><![CDATA[Protection des données - RGPD]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[194]]></termid>
+    <termname><![CDATA[Protection du poste de travail]]></termname>
+    <termslug><![CDATA[protection-du-poste-de-travail]]></termslug>
+    <description><![CDATA[Protection du poste de travail]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[197]]></termid>
+    <termname><![CDATA[Sauvegarde et archivage]]></termname>
+    <termslug><![CDATA[sauvegarde-et-archivage]]></termslug>
+    <description><![CDATA[Sauvegarde et archivage]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[198]]></termid>
+    <termname><![CDATA[Security Operations center (SOC)]]></termname>
+    <termslug><![CDATA[security-operations-center-soc]]></termslug>
+    <description><![CDATA[Security Operations center (SOC)]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[199]]></termid>
+    <termname><![CDATA[Serveurs d'application]]></termname>
+    <termslug><![CDATA[serveurs-dapplication]]></termslug>
+    <description><![CDATA[Serveurs d'application]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[200]]></termid>
+    <termname><![CDATA[Signature électronique]]></termname>
+    <termslug><![CDATA[signature-electronique]]></termslug>
+    <description><![CDATA[Signature électronique]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[201]]></termid>
+    <termname><![CDATA[Solutions d'Architecture d'entreprise]]></termname>
+    <termslug><![CDATA[solutions-darchitecture-dentreprise]]></termslug>
+    <description><![CDATA[Solutions d'Architecture d'entreprise]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[202]]></termid>
+    <termname><![CDATA[Solutions de virtualisation]]></termname>
+    <termslug><![CDATA[solutions-de-virtualisation]]></termslug>
+    <description><![CDATA[Solutions de virtualisation]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[203]]></termid>
+    <termname><![CDATA[Stockage]]></termname>
+    <termslug><![CDATA[stockage]]></termslug>
+    <description><![CDATA[Stockage]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[204]]></termid>
+    <termname><![CDATA[Supervision Cloud]]></termname>
+    <termslug><![CDATA[supervision-cloud]]></termslug>
+    <description><![CDATA[Supervision Cloud]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[205]]></termid>
+    <termname><![CDATA[Supervision des applications]]></termname>
+    <termslug><![CDATA[supervision-des-applications]]></termslug>
+    <description><![CDATA[Supervision des applications]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[206]]></termid>
+    <termname><![CDATA[Supervision du Système d'information]]></termname>
+    <termslug><![CDATA[supervision-du-systeme-dinformation]]></termslug>
+    <description><![CDATA[Supervision du Système d'information]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[207]]></termid>
+    <termname><![CDATA[Supervision et sécurisation réseau]]></termname>
+    <termslug><![CDATA[supervision-et-securisation-reseau]]></termslug>
+    <description><![CDATA[Supervision et sécurisation réseau]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[208]]></termid>
+    <termname><![CDATA[Support aux utilisateurs]]></termname>
+    <termslug><![CDATA[support-aux-utilisateurs]]></termslug>
+    <description><![CDATA[Support aux utilisateurs]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[209]]></termid>
+    <termname><![CDATA[Tableau de bord - BI]]></termname>
+    <termslug><![CDATA[tableau-de-bord-bi]]></termslug>
+    <description><![CDATA[Tableau de bord - BI]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[210]]></termid>
+    <termname><![CDATA[Virtualisation du poste de travail et des applications]]></termname>
+    <termslug><![CDATA[virtualisation-du-poste-de-travail-et-des-applications]]></termslug>
+    <description><![CDATA[Virtualisation du poste de travail et des applications]]></description>
+    <parentid><![CDATA[127]]></parentid>
+    <parentname><![CDATA[IT / SI]]></parentname>
+    <parentslug><![CDATA[it-si]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[211]]></termid>
+    <termname><![CDATA[Affrètement]]></termname>
+    <termslug><![CDATA[affretement]]></termslug>
+    <description><![CDATA[Affrètement]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[212]]></termid>
+    <termname><![CDATA[Edition de documents]]></termname>
+    <termslug><![CDATA[edition-de-documents]]></termslug>
+    <description><![CDATA[Edition de documents]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[213]]></termid>
+    <termname><![CDATA[Flotte de véhicules]]></termname>
+    <termslug><![CDATA[flotte-de-vehicules]]></termslug>
+    <description><![CDATA[Flotte de véhicules]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[214]]></termid>
+    <termname><![CDATA[Gestion de la supply chain financière]]></termname>
+    <termslug><![CDATA[gestion-de-la-supply-chain-financiere]]></termslug>
+    <description><![CDATA[Gestion de la supply chain financière]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[215]]></termid>
+    <termname><![CDATA[Gestion des événements et des risques]]></termname>
+    <termslug><![CDATA[gestion-des-evenements-et-des-risques]]></termslug>
+    <description><![CDATA[Gestion des événements et des risques]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[216]]></termid>
+    <termname><![CDATA[Opérations d'entreposage]]></termname>
+    <termslug><![CDATA[operations-dentreposage]]></termslug>
+    <description><![CDATA[Opérations d'entreposage]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[217]]></termid>
+    <termname><![CDATA[Optimisation de tournées]]></termname>
+    <termslug><![CDATA[optimisation-de-tournees]]></termslug>
+    <description><![CDATA[Optimisation de tournées]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[218]]></termid>
+    <termname><![CDATA[Planification de la supply chain]]></termname>
+    <termslug><![CDATA[planification-de-la-supply-chain]]></termslug>
+    <description><![CDATA[Planification de la supply chain]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[219]]></termid>
+    <termname><![CDATA[Prévisions de vente]]></termname>
+    <termslug><![CDATA[previsions-de-vente]]></termslug>
+    <description><![CDATA[Prévisions de vente]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[220]]></termid>
+    <termname><![CDATA[Traçabilité produits]]></termname>
+    <termslug><![CDATA[tracabilite-produits]]></termslug>
+    <description><![CDATA[Traçabilité produits]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[221]]></termid>
+    <termname><![CDATA[Tracking transport]]></termname>
+    <termslug><![CDATA[tracking-transport]]></termslug>
+    <description><![CDATA[Tracking transport]]></description>
+    <parentid><![CDATA[128]]></parentid>
+    <parentname><![CDATA[Logistique et supply chain]]></parentname>
+    <parentslug><![CDATA[logistique-et-supply-chain]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[222]]></termid>
+    <termname><![CDATA[Campagnes marketing]]></termname>
+    <termslug><![CDATA[campagnes-marketing]]></termslug>
+    <description><![CDATA[Campagnes marketing]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[223]]></termid>
+    <termname><![CDATA[Contenus marketing]]></termname>
+    <termslug><![CDATA[contenus-marketing]]></termslug>
+    <description><![CDATA[Contenus marketing]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[224]]></termid>
+    <termname><![CDATA[Editique]]></termname>
+    <termslug><![CDATA[editique]]></termslug>
+    <description><![CDATA[Editique]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[225]]></termid>
+    <termname><![CDATA[Génération de leads]]></termname>
+    <termslug><![CDATA[generation-de-leads]]></termslug>
+    <description><![CDATA[Génération de leads]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[226]]></termid>
+    <termname><![CDATA[Gestion d'événements]]></termname>
+    <termslug><![CDATA[gestion-devenements]]></termslug>
+    <description><![CDATA[Gestion d'événements]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[227]]></termid>
+    <termname><![CDATA[Logiciels d'enquête]]></termname>
+    <termslug><![CDATA[logiciels-denquete]]></termslug>
+    <description><![CDATA[Logiciels d'enquête]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[228]]></termid>
+    <termname><![CDATA[Marketing conversationnel]]></termname>
+    <termslug><![CDATA[marketing-conversationnel]]></termslug>
+    <description><![CDATA[Marketing conversationnel]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[229]]></termid>
+    <termname><![CDATA[Réseaux sociaux]]></termname>
+    <termslug><![CDATA[reseaux-sociaux]]></termslug>
+    <description><![CDATA[Réseaux sociaux]]></description>
+    <parentid><![CDATA[129]]></parentid>
+    <parentname><![CDATA[Marketing et communication]]></parentname>
+    <parentslug><![CDATA[marketing-et-communication]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[230]]></termid>
+    <termname><![CDATA[CFAO]]></termname>
+    <termslug><![CDATA[cfao]]></termslug>
+    <description><![CDATA[CFAO]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[231]]></termid>
+    <termname><![CDATA[Chiffrage et devis]]></termname>
+    <termslug><![CDATA[chiffrage-et-devis]]></termslug>
+    <description><![CDATA[Chiffrage et devis]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[232]]></termid>
+    <termname><![CDATA[Exécution de la fabrication (MES)]]></termname>
+    <termslug><![CDATA[execution-de-la-fabrication-mes]]></termslug>
+    <description><![CDATA[Exécution de la fabrication (MES)]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[233]]></termid>
+    <termname><![CDATA[GPAO et ordonnancement]]></termname>
+    <termslug><![CDATA[gpao-et-ordonnancement]]></termslug>
+    <description><![CDATA[GPAO et ordonnancement]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[234]]></termid>
+    <termname><![CDATA[LIMS (Laboratory Information Management System)]]></termname>
+    <termslug><![CDATA[lims-laboratory-information-management-system]]></termslug>
+    <description><![CDATA[LIMS (Laboratory Information Management System)]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[235]]></termid>
+    <termname><![CDATA[Maintenance]]></termname>
+    <termslug><![CDATA[maintenance]]></termslug>
+    <description><![CDATA[Maintenance]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[236]]></termid>
+    <termname><![CDATA[Qualité]]></termname>
+    <termslug><![CDATA[qualite]]></termslug>
+    <description><![CDATA[Qualité]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[237]]></termid>
+    <termname><![CDATA[SAV technique]]></termname>
+    <termslug><![CDATA[sav-technique]]></termslug>
+    <description><![CDATA[SAV technique]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[238]]></termid>
+    <termname><![CDATA[SCADA (Système de contrôle et d'acquisition de données)]]></termname>
+    <termslug><![CDATA[scada-systeme-de-controle-et-dacquisition-de-donnees]]></termslug>
+    <description><![CDATA[SCADA (Système de contrôle et d'acquisition de données)]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[239]]></termid>
+    <termname><![CDATA[Sous-traitance]]></termname>
+    <termslug><![CDATA[sous-traitance]]></termslug>
+    <description><![CDATA[Sous-traitance]]></description>
+    <parentid><![CDATA[130]]></parentid>
+    <parentname><![CDATA[Production]]></parentname>
+    <parentslug><![CDATA[production]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[240]]></termid>
+    <termname><![CDATA[Calculs techniques]]></termname>
+    <termslug><![CDATA[calculs-techniques]]></termslug>
+    <description><![CDATA[Calculs techniques]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[241]]></termid>
+    <termname><![CDATA[CAO &amp;amp; CFAO]]></termname>
+    <termslug><![CDATA[cao-cfao]]></termslug>
+    <description><![CDATA[CAO &amp;amp; CFAO]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[242]]></termid>
+    <termname><![CDATA[Cycle de vie des produits (PLM)]]></termname>
+    <termslug><![CDATA[cycle-de-vie-des-produits-plm]]></termslug>
+    <description><![CDATA[Cycle de vie des produits (PLM)]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[243]]></termid>
+    <termname><![CDATA[Gestion des données produits - PIM]]></termname>
+    <termslug><![CDATA[gestion-des-donnees-produits-pim]]></termslug>
+    <description><![CDATA[Gestion des données produits - PIM]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[244]]></termid>
+    <termname><![CDATA[Gestion des données techniques - SGDT]]></termname>
+    <termslug><![CDATA[gestion-des-donnees-techniques-sgdt]]></termslug>
+    <description><![CDATA[Gestion des données techniques - SGDT]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[245]]></termid>
+    <termname><![CDATA[Gestion des formules]]></termname>
+    <termslug><![CDATA[gestion-des-formules]]></termslug>
+    <description><![CDATA[Gestion des formules]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[246]]></termid>
+    <termname><![CDATA[Management de l'innovation]]></termname>
+    <termslug><![CDATA[management-de-linnovation]]></termslug>
+    <description><![CDATA[Management de l'innovation]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[247]]></termid>
+    <termname><![CDATA[Modélisation et simulation]]></termname>
+    <termslug><![CDATA[modelisation-et-simulation]]></termslug>
+    <description><![CDATA[Modélisation et simulation]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[248]]></termid>
+    <termname><![CDATA[Processus de conception R&amp;amp;D]]></termname>
+    <termslug><![CDATA[processus-de-conception-rd]]></termslug>
+    <description><![CDATA[Processus de conception R&amp;amp;D]]></description>
+    <parentid><![CDATA[131]]></parentid>
+    <parentname><![CDATA[R&amp;amp;D - Conception &amp;amp; innovation]]></parentname>
+    <parentslug><![CDATA[rd-conception-innovation]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[249]]></termid>
+    <termname><![CDATA[Campagnes marketing]]></termname>
+    <termslug><![CDATA[campagnes-marketing-relation-client]]></termslug>
+    <description><![CDATA[Campagnes marketing]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[250]]></termid>
+    <termname><![CDATA[Centre d'appel]]></termname>
+    <termslug><![CDATA[centre-dappel]]></termslug>
+    <description><![CDATA[Centre d'appel]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[251]]></termid>
+    <termname><![CDATA[Commerce internatinal]]></termname>
+    <termslug><![CDATA[commerce-internatinal]]></termslug>
+    <description><![CDATA[Commerce internatinal]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[252]]></termid>
+    <termname><![CDATA[Force de vente]]></termname>
+    <termslug><![CDATA[force-de-vente]]></termslug>
+    <description><![CDATA[Force de vente]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[253]]></termid>
+    <termname><![CDATA[Gestion des abonnements]]></termname>
+    <termslug><![CDATA[gestion-des-abonnements]]></termslug>
+    <description><![CDATA[Gestion des abonnements]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[254]]></termid>
+    <termname><![CDATA[Gestion des affaires]]></termname>
+    <termslug><![CDATA[gestion-des-affaires]]></termslug>
+    <description><![CDATA[Gestion des affaires]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[255]]></termid>
+    <termname><![CDATA[Informations produits]]></termname>
+    <termslug><![CDATA[informations-produits]]></termslug>
+    <description><![CDATA[Informations produits]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[256]]></termid>
+    <termname><![CDATA[Prévisions de vente]]></termname>
+    <termslug><![CDATA[previsions-de-vente-relation-client]]></termslug>
+    <description><![CDATA[Prévisions de vente]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[257]]></termid>
+    <termname><![CDATA[Service clients]]></termname>
+    <termslug><![CDATA[service-clients]]></termslug>
+    <description><![CDATA[Service clients]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[258]]></termid>
+    <termname><![CDATA[Territoires géographiques et secteurs]]></termname>
+    <termslug><![CDATA[territoires-geographiques-et-secteurs]]></termslug>
+    <description><![CDATA[Territoires géographiques et secteurs]]></description>
+    <parentid><![CDATA[132]]></parentid>
+    <parentname><![CDATA[Relation client]]></parentname>
+    <parentslug><![CDATA[relation-client]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[259]]></termid>
+    <termname><![CDATA[Administration des RH]]></termname>
+    <termslug><![CDATA[administration-des-rh]]></termslug>
+    <description><![CDATA[Administration des RH]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[260]]></termid>
+    <termname><![CDATA[Compétences]]></termname>
+    <termslug><![CDATA[competences]]></termslug>
+    <description><![CDATA[Compétences]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[261]]></termid>
+    <termname><![CDATA[Formation]]></termname>
+    <termslug><![CDATA[formation]]></termslug>
+    <description><![CDATA[Formation]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[262]]></termid>
+    <termname><![CDATA[Intérim]]></termname>
+    <termslug><![CDATA[interim]]></termslug>
+    <description><![CDATA[Intérim]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[263]]></termid>
+    <termname><![CDATA[Management de l'innovation]]></termname>
+    <termslug><![CDATA[management-de-linnovation-ressources-humaines]]></termslug>
+    <description><![CDATA[Management de l'innovation]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[264]]></termid>
+    <termname><![CDATA[Notes de frais]]></termname>
+    <termslug><![CDATA[notes-de-frais-ressources-humaines]]></termslug>
+    <description><![CDATA[Notes de frais]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[265]]></termid>
+    <termname><![CDATA[Paie]]></termname>
+    <termslug><![CDATA[paie]]></termslug>
+    <description><![CDATA[Paie]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[266]]></termid>
+    <termname><![CDATA[Recrutement]]></termname>
+    <termslug><![CDATA[recrutement]]></termslug>
+    <description><![CDATA[Recrutement]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[267]]></termid>
+    <termname><![CDATA[Rémunérations]]></termname>
+    <termslug><![CDATA[remunerations]]></termslug>
+    <description><![CDATA[Rémunérations]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[268]]></termid>
+    <termname><![CDATA[Talents et carrières]]></termname>
+    <termslug><![CDATA[talents-et-carrieres]]></termslug>
+    <description><![CDATA[Talents et carrières]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[269]]></termid>
+    <termname><![CDATA[Temps et activité]]></termname>
+    <termslug><![CDATA[temps-et-activite]]></termslug>
+    <description><![CDATA[Temps et activité]]></description>
+    <parentid><![CDATA[133]]></parentid>
+    <parentname><![CDATA[Ressources Humaines]]></parentname>
+    <parentslug><![CDATA[ressources-humaines]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[270]]></termid>
+    <termname><![CDATA[Gestion de catalogues]]></termname>
+    <termslug><![CDATA[gestion-de-catalogues]]></termslug>
+    <description><![CDATA[Gestion de catalogues]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[271]]></termid>
+    <termname><![CDATA[Gestion de centrales d'achats et de la grande distribution]]></termname>
+    <termslug><![CDATA[gestion-de-centrales-dachats-et-de-la-grande-distribution]]></termslug>
+    <description><![CDATA[Gestion de centrales d'achats et de la grande distribution]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[272]]></termid>
+    <termname><![CDATA[Gestion de fidélité]]></termname>
+    <termslug><![CDATA[gestion-de-fidelite]]></termslug>
+    <description><![CDATA[Gestion de fidélité]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[273]]></termid>
+    <termname><![CDATA[Gestion de magasins spécialisés]]></termname>
+    <termslug><![CDATA[gestion-de-magasins-specialises]]></termslug>
+    <description><![CDATA[Gestion de magasins spécialisés]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[274]]></termid>
+    <termname><![CDATA[Gestion de services aux particuliers]]></termname>
+    <termslug><![CDATA[gestion-de-services-aux-particuliers]]></termslug>
+    <description><![CDATA[Gestion de services aux particuliers]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[275]]></termid>
+    <termname><![CDATA[Gestion de sites e-commerce]]></termname>
+    <termslug><![CDATA[gestion-de-sites-e-commerce]]></termslug>
+    <description><![CDATA[Gestion de sites e-commerce]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[276]]></termid>
+    <termname><![CDATA[Gestion d'entrepôts de distribution]]></termname>
+    <termslug><![CDATA[gestion-dentrepots-de-distribution]]></termslug>
+    <description><![CDATA[Gestion d'entrepôts de distribution]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[277]]></termid>
+    <termname><![CDATA[Gestion du commerce international]]></termname>
+    <termslug><![CDATA[gestion-du-commerce-international]]></termslug>
+    <description><![CDATA[Gestion du commerce international]]></description>
+    <parentid><![CDATA[134]]></parentid>
+    <parentname><![CDATA[Ventes &amp;amp; Distribution]]></parentname>
+    <parentslug><![CDATA[ventes-distribution]]></parentslug>
+    <count><![CDATA[0]]></count>
+  </item>
+</wpiedata>

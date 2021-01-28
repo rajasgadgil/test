@@ -1,0 +1,56 @@
+[08:42:11] <strong>Record</strong> #1
+[08:42:11] user #22 Successfully Imported
+[08:42:11] <strong>Record</strong> #2
+[08:42:11] user #23 Successfully Imported
+[08:42:11] <strong>Record</strong> #3
+[08:42:11] user #24 Successfully Imported
+[08:42:11] <strong>Record</strong> #4
+[08:42:11] user #25 Successfully Imported
+[08:42:11] <strong>Record</strong> #5
+[08:42:11] user #26 Successfully Imported
+[08:42:11] <strong>Record</strong> #6
+[08:42:11] user #27 Successfully Imported
+[08:42:11] <strong>Record</strong> #7
+[08:42:12] user #28 Successfully Imported
+[08:42:12] <strong>Record</strong> #8
+[08:42:12] user #29 Successfully Imported
+[08:42:12] <strong>Record</strong> #9
+[08:42:12] user #30 Successfully Imported
+[08:42:12] <strong>Record</strong> #10
+[08:42:12] user #31 Successfully Imported
+[08:42:12] <strong>Record</strong> #11
+[08:42:12] user #32 Successfully Imported
+[08:42:12] <strong>Record</strong> #12
+[08:42:12] user #33 Successfully Imported
+[08:42:12] <strong>Record</strong> #13
+[08:42:12] user #34 Successfully Imported
+[08:42:12] <strong>Record</strong> #14
+[08:42:12] user #35 Successfully Imported
+[08:42:12] <strong>Record</strong> #15
+[08:42:12] user #36 Successfully Imported
+[08:42:12] <strong>Record</strong> #16
+[08:42:12] user #37 Successfully Imported
+[08:42:12] <strong>Record</strong> #17
+[08:42:12] user #38 Successfully Imported
+[08:42:12] <strong>Record</strong> #18
+[08:42:12] user #39 Successfully Imported
+[08:42:12] <strong>Record</strong> #19
+[08:42:12] user #40 Successfully Imported
+[08:42:12] <strong>Record</strong> #20
+[08:42:13] user #41 Successfully Imported
+[08:42:13] <strong>Record</strong> #21
+[08:42:13] user #42 Successfully Imported
+[08:42:13] <strong>Record</strong> #22
+[08:42:13] user #43 Successfully Imported
+[08:42:13] <strong>Record</strong> #23
+[08:42:13] user #44 Successfully Imported
+[08:42:13] <strong>Record</strong> #24
+[08:42:13] user #45 Successfully Imported
+[08:42:13] <strong>Record</strong> #25
+[08:42:13] user #46 Successfully Imported
+[08:42:13] <strong>Record</strong> #26
+[08:42:13] user #47 Successfully Imported
+[08:42:13] <strong>Record</strong> #27
+[08:42:13] user #48 Successfully Imported
+[08:42:13] <strong>Record</strong> #28
+[08:42:13] user #49 Successfully Imported

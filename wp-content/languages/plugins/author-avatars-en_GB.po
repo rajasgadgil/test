@@ -1,0 +1,382 @@
+# Translation of Plugins - Author Avatars List/Block - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Author Avatars List/Block - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-06 13:57:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Author Avatars List/Block - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Paul Bearne"
+msgstr "Paul Bearne"
+
+#: lib/AuthorAvatarsForm.class.php:777
+msgid "White List"
+msgstr "Whitelist"
+
+#: lib/AuthorAvatarsForm.class.php:313
+msgid "White List of users"
+msgstr "Whitelist of users"
+
+#: lib/AuthorAvatarsForm.class.php:293
+msgid "Comma separate list of user login ids. Hidden user are removed before the white list"
+msgstr "Comma-separated list of user login IDs. Hidden user are removed before the whitelist"
+
+#: lib/AuthorAvatarsForm.class.php:314
+msgid "0nly show these users, Comma separate list of user login ids"
+msgstr "0nly show these users, comma-separated list of user login ids"
+
+#: author-avatars.php:51
+msgid "Help translate."
+msgstr "Help translate."
+
+#: lib/AuthorAvatarsForm.class.php:751
+msgid "UM Profile Page"
+msgstr "UM Profile Page"
+
+#: lib/AuthorAvatarsForm.class.php:628
+msgid "None"
+msgstr "None"
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:102
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: lib/AuthorAvatarsWidget.class.php:242
+msgid "Title"
+msgstr "Title"
+
+#: lib/AuthorAvatarsForm.class.php:422
+msgid "Ascending"
+msgstr "Ascending"
+
+#: lib/AuthorAvatarsForm.class.php:423
+msgid "Descending"
+msgstr "Descending"
+
+#: lib/AuthorAvatarsForm.class.php:629
+msgid "Left"
+msgstr "Left"
+
+#: lib/AuthorAvatarsForm.class.php:630
+msgid "Center"
+msgstr "Centre"
+
+#: lib/AuthorAvatarsForm.class.php:776
+msgid "Random"
+msgstr "Random"
+
+#: lib/AuthorAvatarsForm.class.php:631
+msgid "Right"
+msgstr "Right"
+
+#: lib/AuthorAvatarsForm.class.php:755
+msgid "Blog"
+msgstr "Blog"
+
+#: lib/AuthorAvatarsEditorButton.class.php:157
+#: lib/AuthorAvatarsWidget.class.php:314
+msgid "Advanced"
+msgstr "Advanced"
+
+#: lib/AuthorAvatarsEditorButton.class.php:165
+msgid "Cancel"
+msgstr "Cancel"
+
+#: lib/AuthorAvatarsForm.class.php:743
+msgid "Website"
+msgstr "Website"
+
+#: lib/AuthorAvatars.class.php:48
+msgid "Author avatars: system check failed."
+msgstr "Author avatars: system check failed."
+
+#: lib/AuthorAvatars.class.php:50
+msgid "Author avatars: install check failed."
+msgstr "Author avatars: install check failed."
+
+#: lib/AuthorAvatars.class.php:52
+msgid "Author avatars: update check failed."
+msgstr "Author avatars: update check failed."
+
+#: lib/AuthorAvatars.class.php:343 lib/AuthorAvatarsWidget.class.php:17
+msgid "Blog Authors"
+msgstr "Blog Authors"
+
+#: lib/AuthorAvatarsEditorButton.class.php:105
+msgid "Author avatars shortcodes"
+msgstr "Author avatars shortcodes"
+
+#: lib/AuthorAvatarsEditorButton.class.php:137
+#: lib/AuthorAvatarsWidget.class.php:266
+msgid "Basic"
+msgstr "Basic"
+
+#: lib/AuthorAvatarsEditorButton.class.php:168
+msgid "Insert"
+msgstr "Insert"
+
+#: lib/AuthorAvatarsForm.class.php:129
+msgid "Show users from blogs"
+msgstr "Show users from blogs"
+
+#: lib/AuthorAvatarsForm.class.php:130
+msgid "If no blog is selected only users from the current blog are displayed."
+msgstr "If no blog is selected only users from the current blog are displayed."
+
+#: lib/AuthorAvatarsForm.class.php:189
+msgid "Group by blogs"
+msgstr "Group by blogs"
+
+#: lib/AuthorAvatarsForm.class.php:197
+msgid "User list grouping"
+msgstr "User list grouping"
+
+#: lib/AuthorAvatarsForm.class.php:218
+msgid "Commentators"
+msgstr "Commentators"
+
+#: lib/AuthorAvatarsForm.class.php:221
+msgid "Co-Author Plus Guest Authors"
+msgstr "Co-Author Plus Guest Authors"
+
+#: lib/AuthorAvatarsForm.class.php:231
+msgid "Show roles"
+msgstr "Show roles"
+
+#: lib/AuthorAvatarsForm.class.php:292 blocks/src/show-avatar/block.js:518
+msgid "Hidden users"
+msgstr "Hidden users"
+
+#: lib/AuthorAvatarsForm.class.php:720
+msgid "Show name"
+msgstr "Show name"
+
+#: lib/AuthorAvatarsForm.class.php:721
+msgid "Show email"
+msgstr "Show email"
+
+#: lib/AuthorAvatarsForm.class.php:723
+msgid "Show biography"
+msgstr "Show biography"
+
+#: lib/AuthorAvatarsForm.class.php:724
+msgid "Show number of posts"
+msgstr "Show number of posts"
+
+#: lib/AuthorAvatarsForm.class.php:725
+msgid "Show link to authors last post"
+msgstr "Show link to authors last post"
+
+#: lib/AuthorAvatarsForm.class.php:365
+msgid "Display options"
+msgstr "Display options"
+
+#: lib/AuthorAvatarsForm.class.php:769
+msgid "Date of Registration"
+msgstr "Date of Registration"
+
+#: lib/AuthorAvatarsForm.class.php:770
+msgid "Display Name"
+msgstr "Display Name"
+
+#: lib/AuthorAvatarsForm.class.php:772
+msgid "First Name"
+msgstr "First Name"
+
+#: lib/AuthorAvatarsForm.class.php:773
+msgid "Last Name"
+msgstr "Last Name"
+
+#: lib/AuthorAvatarsForm.class.php:774
+msgid "Login Name"
+msgstr "Login Name"
+
+#: lib/AuthorAvatarsForm.class.php:484
+msgid "Trim Bio Length to "
+msgstr "Trim Bio Length to "
+
+#: lib/AuthorAvatarsForm.class.php:505
+msgid "Required minimum number of posts"
+msgstr "Required minimum number of posts"
+
+#: lib/AuthorAvatarsForm.class.php:523
+msgid "Avatar Size"
+msgstr "Avatar Size"
+
+#: lib/AuthorAvatarsForm.class.php:549
+msgid "Single Avatar"
+msgstr "Single Avatar"
+
+#: lib/AuthorAvatarsForm.class.php:550
+msgid "List of Users"
+msgstr "List of Users"
+
+#: lib/AuthorAvatarsForm.class.php:554
+msgid "Shortcode Type"
+msgstr "Shortcode Type"
+
+#: lib/AuthorAvatarsForm.class.php:596
+msgid "Custom value"
+msgstr "Custom value"
+
+#: lib/AuthorAvatarsForm.class.php:635
+msgid "Alignment"
+msgstr "Alignment"
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:46
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:51
+msgid "Sitewide Author Avatars Configuration"
+msgstr "Sitewide Author Avatars Configuration"
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:46
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:51
+msgid "Author Avatars List"
+msgstr "Author Avatars List"
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:86
+msgid "Options saved."
+msgstr "Options saved."
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:91
+msgid "Sitewide Author Avatars Options"
+msgstr "Sitewide Author Avatars Options"
+
+#: lib/AuthorAvatarsForm.class.php:775
+msgid "Number of Posts"
+msgstr "Number of Posts"
+
+#: lib/AuthorAvatarsForm.class.php:779
+msgid "Recent Posts Activity"
+msgstr "Recent Posts Activity"
+
+#: lib/AuthorAvatarsForm.class.php:386
+msgid "Sorting order"
+msgstr "Sorting order"
+
+#: lib/AuthorAvatarsForm.class.php:742
+msgid "Author Page"
+msgstr "Author Page"
+
+#: lib/AuthorAvatarsForm.class.php:744
+msgid "Users Last Post this blog"
+msgstr "Users Last Post this blog"
+
+#: lib/AuthorAvatarsForm.class.php:745
+msgid "Filtered Last Post"
+msgstr "Filtered Last Post"
+
+#: lib/AuthorAvatarsForm.class.php:748
+msgid "BP Member Page"
+msgstr "BP Member Page"
+
+#: lib/AuthorAvatarsForm.class.php:754
+msgid "Users Last Post ALL blogs"
+msgstr "Users Last Post ALL blogs"
+
+#: lib/AuthorAvatarsForm.class.php:405
+msgid "Link users to"
+msgstr "Link users to"
+
+#: lib/AuthorAvatarsForm.class.php:427
+msgid "Sorting direction"
+msgstr "Sorting direction"
+
+#. Plugin URI of the plugin
+msgid "http://authoravatars.wordpress.com/"
+msgstr "http://authoravatars.wordpress.com/"
+
+#: lib/AuthorAvatarsForm.class.php:780
+msgid "Recent Sitewide Activity"
+msgstr "Recent Sitewide Activity"
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:94
+msgid "Avatar list settings"
+msgstr "Avatar list settings"
+
+#: lib/AuthorAvatarsSitewideAdminPanel.class.php:112
+msgid "Enable blog filter"
+msgstr "Enable blog filter"
+
+#: lib/AuthorAvatarsWidget.class.php:55
+msgid "Displays avatars of blog users."
+msgstr "Displays avatars of blog users."
+
+#: lib/BuddyPressSupport.class.php:44
+msgid "BP %s profile: %s"
+msgstr "BP %s profile: %s"
+
+#: lib/AAFormHelper.class.php:58
+msgid "Sorry, no choices available."
+msgstr "Sorry, no choices available."
+
+#: lib/ShowAvatarShortcode.class.php:86
+msgid "[show_author shortcode: please set id/email attribute]"
+msgstr "[show_author shortcode: please set id/email attribute]"
+
+#: lib/UserList.class.php:211
+msgid "No users found."
+msgstr "No users found."
+
+#: lib/UserList.class.php:286
+msgid "<<"
+msgstr "<<"
+
+#: lib/UserList.class.php:294
+msgid ">>"
+msgstr ">>"
+
+#: lib/UserList.class.php:503
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d comment"
+msgstr[1] "%d comments"
+
+#: lib/UserList.class.php:515
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] "%d post"
+msgstr[1] "%d posts"
+
+#: lib/AuthorAvatarsForm.class.php:786
+msgid "BudyPress last activity"
+msgstr "BuddyPress last activity"
+
+#: lib/AuthorAvatarsForm.class.php:592
+msgid "Email address or user id"
+msgstr "Email address or user ID"
+
+#: lib/AuthorAvatarsForm.class.php:464
+msgid "Max. number of avatars per page"
+msgstr "Maximum number of avatars per page"
+
+#: lib/AuthorAvatarsForm.class.php:445
+msgid "Max. number of avatars shown"
+msgstr "Maximum number of avatars shown"
+
+#: lib/AuthorAvatarsForm.class.php:778
+msgid "User Id"
+msgstr "User Id"
+
+#: lib/UserList.class.php:524
+msgid "%d BBPress post"
+msgid_plural "%d BBPress posts"
+msgstr[0] "%d bbPress post"
+msgstr[1] "%d bbPress posts"
+
+#: lib/AuthorAvatarsForm.class.php:758
+msgid "BBpress Member Page"
+msgstr "bbPress Member Page"
+
+#: lib/AuthorAvatarsForm.class.php:783
+msgid "BBPress Post Count"
+msgstr "bbPress Post Count"
+
+#: lib/AuthorAvatarsForm.class.php:728
+msgid "Show BBPress Post Count"
+msgstr "Show bbPress Post Count"

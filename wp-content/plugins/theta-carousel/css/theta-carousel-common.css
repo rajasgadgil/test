@@ -1,0 +1,84 @@
+#theta-crousel-invalid-postid {
+  color: red;
+}
+.theta-carousel .slide-inner-title {
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.theta-carousel .theta-carousel-item.wide {
+  width: 600px;
+}
+.theta-carousel .theta-carousel-item.tall {
+  height: 480px;
+}
+.theta-carousel .theta-carousel-item.square {
+  height: 430px;
+}
+.theta-carousel-outer-container .slide-outer-title {
+  text-align: center;
+}
+.theta-carousel-outer-container .parabola .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .parabola .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .parabola.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .invert_rotation .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .invert_rotation .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .invert_rotation.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .line_left .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .line_left .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .line_left.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .line_popout .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .line_popout .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .line_popout.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .cubical_parabola .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .cubical_parabola .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .cubical_parabola.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .wave .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .wave .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .wave.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .spiral .slide-inner-title {
+  visibility: hidden;
+}
+.theta-carousel-outer-container .spiral .theta-current-item .slide-inner-title {
+  visibility: visible;
+}
+.theta-carousel-outer-container .spiral.theta-in-motion .theta-current-item .slide-inner-title {
+  visibility: hidden;
+}

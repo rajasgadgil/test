@@ -1,0 +1,6 @@
+[09:34:21] <strong>Record</strong> #1
+[09:34:21] taxonomy #226 Successfully Imported
+[09:34:21] <strong>Record</strong> #2
+[09:34:21] taxonomy #227 Successfully Imported
+[09:34:21] <strong>Record</strong> #3
+[09:34:21] taxonomy #228 Successfully Imported

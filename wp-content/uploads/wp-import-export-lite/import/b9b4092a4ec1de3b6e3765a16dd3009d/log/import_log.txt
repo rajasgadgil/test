@@ -1,0 +1,54 @@
+[05:41:18] <strong>Record</strong> #1
+[05:41:18] taxonomy #232 Successfully Imported
+[05:41:18] <strong>Record</strong> #2
+[05:41:18] taxonomy #233 Successfully Imported
+[05:41:18] <strong>Record</strong> #3
+[05:41:18] taxonomy #234 Successfully Imported
+[05:41:18] <strong>Record</strong> #4
+[05:41:18] taxonomy #235 Successfully Imported
+[05:41:18] <strong>Record</strong> #5
+[05:41:18] taxonomy #236 Successfully Imported
+[05:41:18] <strong>Record</strong> #6
+[05:41:18] taxonomy #237 Successfully Imported
+[05:41:18] <strong>Record</strong> #7
+[05:41:18] taxonomy #238 Successfully Imported
+[05:41:18] <strong>Record</strong> #8
+[05:41:18] taxonomy #239 Successfully Imported
+[05:41:18] <strong>Record</strong> #9
+[05:41:18] taxonomy #240 Successfully Imported
+[05:41:18] <strong>Record</strong> #10
+[05:41:18] taxonomy #241 Successfully Imported
+[05:41:18] <strong>Record</strong> #11
+[05:41:18] taxonomy #242 Successfully Imported
+[05:41:18] <strong>Record</strong> #12
+[05:41:18] taxonomy #243 Successfully Imported
+[05:41:18] <strong>Record</strong> #13
+[05:41:18] taxonomy #244 Successfully Imported
+[05:41:18] <strong>Record</strong> #14
+[05:41:18] taxonomy #245 Successfully Imported
+[05:41:18] <strong>Record</strong> #15
+[05:41:18] taxonomy #246 Successfully Imported
+[05:41:18] <strong>Record</strong> #16
+[05:41:18] taxonomy #247 Successfully Imported
+[05:41:18] <strong>Record</strong> #17
+[05:41:18] taxonomy #248 Successfully Imported
+[05:41:18] <strong>Record</strong> #18
+[05:41:19] taxonomy #249 Successfully Imported
+[05:41:19] <strong>Record</strong> #19
+[05:41:19] taxonomy #250 Successfully Imported
+[05:41:19] <strong>Record</strong> #20
+[05:41:19] taxonomy #251 Successfully Imported
+[05:41:19] <strong>Record</strong> #21
+[05:41:19] taxonomy #252 Successfully Imported
+[05:41:19] <strong>Record</strong> #22
+[05:41:19] taxonomy #253 Successfully Imported
+[05:41:19] <strong>Record</strong> #23
+[05:41:19] taxonomy #254 Successfully Imported
+[05:41:19] <strong>Record</strong> #24
+[05:41:19] taxonomy #255 Successfully Imported
+[05:41:19] <strong>Record</strong> #25
+[05:41:19] taxonomy #256 Successfully Imported
+[05:41:19] <strong>Record</strong> #26
+[05:41:19] taxonomy #257 Successfully Imported
+[05:41:19] <strong>Record</strong> #27
+[05:41:19] taxonomy #258 Successfully Imported

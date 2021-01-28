@@ -1,0 +1,16 @@
+User Login,User Email,First Name,Last Name,User Registered,User Nicename,User URL,Display Name,Nickname,Description,admin_color,description,first_name,last_name,nickname,User Role,User Pass,User Status
+celine.reviewer,celine.reviewer@teknowlogy.com,Céline,Reviewer,44214,celine.reviewer,,Céline Reviewer,celine.reviewer,,fresh,,Céline,Reviewer,celine.reviewer,cxp_reviewer,,0
+celine.publisher,celine.publisher@teknowlogy.com,Céline,Publisher,44214,celine.publisher,,Céline Publisher,celine.publisher,,fresh,,Céline,Publisher,celine.publisher,cxp_publisher,,0
+celine.integrator,celine.integrator@teknowlogy.com,Céline,Integrator,44214,celine.integrator,,Céline Integrator,celine.integrator,,fresh,,Céline,Integrator,celine.integrator,cxp_integrator,,0
+amandine.reviewer,amandine.reviewer@teknowlogy.com,Amandine,Reviewer,44214,amandine.reviewer,,Amandine Reviewer,amandine.reviewer,,fresh,,Amandine,Reviewer,amandine.reviewer,cxp_reviewer,,0
+amandine.publisher,amandine.publisher@teknowlogy.com,Amandine,Publisher,44214,amandine.publisher,,Amandine Publisher,amandine.publisher,,fresh,,Amandine,Publisher,amandine.publisher,cxp_publisher,,0
+amandine.integrator,amandine.integrator@teknowlogy.com,Amandine,Integrator,44214,amandine.integrator,,Amandine Integrator,amandine.integrator,,fresh,,Amandine,Integrator,amandine.integrator,cxp_integrator,,0
+sophie.reviewer,sophie.reviewer@teknowlogy.com,Sophie,Reviewer,44214,sophie.reviewer,,Sophie Reviewer,sophie.reviewer,,fresh,,Sophie,Reviewer,sophie.reviewer,cxp_reviewer,,0
+sophie.publisher,sophie.publisher@teknowlogy.com,Sophie,Publisher,44214,sophie.publisher,http://www.tecknowlogy.com,Sophie Publisher,sophie.publisher,,fresh,,Sophie,Publisher,sophie.publisher,cxp_publisher,,0
+sophie.integrator,sophie.integrator@teknowlogy.com,Sophie,Integrator,44214,sophie.integrator,,Sophie Integrator,sophie.integrator,,fresh,,Sophie,Integrator,sophie.integrator,cxp_integrator,,0
+cyrille.reviewer,cyrille.reviewer@teknowlogy.com,Cyrille,Reviewer,44214,cyrille.reviewer,,Cyrille Reviewer,cyrille.reviewer,,fresh,,Cyrille,Reviewer,cyrille.reviewer,cxp_reviewer,,0
+cyrille.publisher,cyrille.publisher@teknowlogy.com,Cyrille,Publisher,44214,cyrille.publisher,,Cyrille Publisher,cyrille.publisher,,fresh,,Cyrille,Publisher,cyrille.publisher,cxp_publisher,,0
+cyrille.integrator,cyrille.integrator@teknowlogy.com,Cyrille,Integrator,44214,cyrille.integrator,,Cyrille Integrator,cyrille.integrator,,fresh,,Cyrille,Integrator,cyrille.integrator,cxp_integrator,,0
+david.reviewer,david.reviewer@teknowlogy.com,David,Reviewer,44214,david.reviewer,,David Reviewer,david.reviewer,,fresh,,David,Reviewer,david.reviewer,cxp_reviewer,,0
+david.publisher,david.publisher@teknowlogy.com,David,Publisher,44214,david.publisher,,David Publisher,david.publisher,,fresh,,David,Publisher,david.publisher,cxp_publisher,,0
+david.integrator,david.integrator@teknowlogy.com,David,Integrator,44214,david.integrator,,David Integrator,david.integrator,,fresh,,David,Integrator,david.integrator,cxp_integrator,,0

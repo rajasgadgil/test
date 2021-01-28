@@ -1,0 +1,152 @@
+"Term ID","Term Name","Term Slug",Description,"Parent ID","Parent Name","Parent Slug",Count
+125,Achats,achats,Achats,0,,,1
+126,Finance,finance,Finance,0,,,1
+127,"IT / SI",it-si,"IT / SI",0,,,0
+128,"Logistique et supply chain",logistique-et-supply-chain,"Logistique et supply chain",0,,,0
+129,"Marketing et communication",marketing-et-communication,"Marketing et communication",0,,,0
+130,Production,production,Production,0,,,0
+131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,"R&amp;D - Conception &amp; innovation",0,,,0
+132,"Relation client",relation-client,"Relation client",0,,,0
+133,"Ressources Humaines",ressources-humaines,"Ressources Humaines",0,,,0
+134,"Ventes &amp; Distribution",ventes-distribution,"Ventes &amp; Distribution",0,,,0
+135,Catalogues,catalogues,Catalogues,125,Achats,achats,5
+136,"Dématérialisation des factures",dematerialisation-des-factures,"Dématérialisation des factures",125,Achats,achats,3
+137,e-procurement,e-procurement,e-procurement,125,Achats,achats,2
+138,"Gestion des contrats",gestion-des-contrats,"Gestion des contrats ",125,Achats,achats,3
+139,"Places de marchés",places-de-marches,"Places de marchés",125,Achats,achats,2
+140,"Relations fournisseurs",relations-fournisseurs,"Relations fournisseurs",125,Achats,achats,3
+141,"Risque fournisseurs",risque-fournisseurs,"Risque fournisseurs",125,Achats,achats,2
+142,Sourcing,sourcing,Sourcing,125,Achats,achats,1
+143,"Transactions B2B",transactions-b2b,"Transactions B2B",125,Achats,achats,1
+144,"Comptabilité générale et auxiliaire",comptabilite-generale-et-auxiliaire,"Comptabilité générale et auxiliaire",126,Finance,finance,1
+145,Consolidation,consolidation,Consolidation,126,Finance,finance,0
+146,"Corporate Performance Management",corporate-performance-management,"Corporate Performance Management",126,Finance,finance,0
+147,"Crédit clients",credit-clients,"Crédit clients",126,Finance,finance,0
+148,"Gestion fiscale",gestion-fiscale,"Gestion fiscale",126,Finance,finance,0
+149,Immobilisations,immobilisations,Immobilisations,126,Finance,finance,0
+150,"Notes de frais",notes-de-frais,"Notes de frais",126,Finance,finance,0
+151,"Planification et élaboration budgétaire",planification-et-elaboration-budgetaire,"Planification et élaboration budgétaire",126,Finance,finance,0
+152,"Supply chain financière",supply-chain-financiere,"Supply chain financière",126,Finance,finance,0
+153,"Transactions bancaires et paiements",transactions-bancaires-et-paiements,"Transactions bancaires et paiements",126,Finance,finance,0
+154,Trésorerie,tresorerie,Trésorerie,126,Finance,finance,0
+155,"Administration et supervision de réseaux",administration-et-supervision-de-reseaux,"Administration et supervision de réseaux",127,"IT / SI",it-si,0
+156,"Cloud Access Security Broker (CASB)",cloud-access-security-broker-casb,"Cloud Access Security Broker (CASB)",127,"IT / SI",it-si,0
+157,"Développement d'applications",developpement-dapplications,"Développement d'applications",127,"IT / SI",it-si,0
+158,"Exploitation et production informatique",exploitation-et-production-informatique,"Exploitation et production informatique",127,"IT / SI",it-si,1
+159,"Gestion centralisée des postes de travail",gestion-centralisee-des-postes-de-travail,"Gestion centralisée des postes de travail",127,"IT / SI",it-si,0
+160,"Gestion d'audit",gestion-daudit,"Gestion d'audit",127,"IT / SI",it-si,0
+161,"Gestion de conférences",gestion-de-conferences,"Gestion de conférences",127,"IT / SI",it-si,0
+162,"Gestion de conteneurs",gestion-de-conteneurs,"Gestion de conteneurs",127,"IT / SI",it-si,0
+163,"Gestion de la téléphonie",gestion-de-la-telephonie,"Gestion de la téléphonie",127,"IT / SI",it-si,0
+164,"Gestion de messagerie",gestion-de-messagerie,"Gestion de messagerie",127,"IT / SI",it-si,0
+165,"Gestion de microservices",gestion-de-microservices,"Gestion de microservices",127,"IT / SI",it-si,0
+166,"Gestion de projets",gestion-de-projets,"Gestion de projets",127,"IT / SI",it-si,1
+167,"Gestion de sauvegarde",gestion-de-sauvegarde,"Gestion de sauvegarde",127,"IT / SI",it-si,1
+168,"Gestion des actifs et des configurations",gestion-des-actifs-et-des-configurations,"Gestion des actifs et des configurations",127,"IT / SI",it-si,0
+169,"Gestion des API",gestion-des-api,"Gestion des API",127,"IT / SI",it-si,0
+170,"Gestion des applications mobiles",gestion-des-applications-mobiles,"Gestion des applications mobiles",127,"IT / SI",it-si,0
+171,"Gestion des communications",gestion-des-communications,"Gestion des communications",127,"IT / SI",it-si,0
+172,"Gestion des données - SGBD",gestion-des-donnees-sgbd,"Gestion des données - SGBD",127,"IT / SI",it-si,0
+173,"Gestion des identités et des accès",gestion-des-identites-et-des-acces,"Gestion des identités et des accès",127,"IT / SI",it-si,1
+174,"Gestion des identités et des accès (IAM)",gestion-des-identites-et-des-acces-iam,"Gestion des identités et des accès (IAM)",127,"IT / SI",it-si,0
+175,"Gestion des licences logicielles",gestion-des-licences-logicielles,"Gestion des licences logicielles",127,"IT / SI",it-si,0
+176,"Gestion des périphériques mobiles",gestion-des-peripheriques-mobiles,"Gestion des périphériques mobiles",127,"IT / SI",it-si,0
+177,"Gestion des services informatique - ITSM",gestion-des-services-informatique-itsm,"Gestion des services informatique - ITSM",127,"IT / SI",it-si,0
+178,"Gestion documentation",gestion-documentation,"Gestion documentation",127,"IT / SI",it-si,0
+179,"Gestion du cycle de vie des applications (ALM)",gestion-du-cycle-de-vie-des-applications-alm,"Gestion du cycle de vie des applications (ALM)",127,"IT / SI",it-si,0
+180,"Gestion financière des services IT",gestion-financiere-des-services-it,"Gestion financière des services IT",127,"IT / SI",it-si,0
+181,"Informations et événements de sécurité (SIEM)",informations-et-evenements-de-securite-siem,"Informations et événements de sécurité (SIEM)",127,"IT / SI",it-si,0
+182,"Modélisation d'architecture",modelisation-darchitecture,"Modélisation d'architecture",127,"IT / SI",it-si,0
+183,"Operating Systems",operating-systems,"Operating Systems",127,"IT / SI",it-si,0
+184,"Outil d'intégration des applications - EAI",outil-dintegration-des-applications-eai,"Outil d'intégration des applications - EAI",127,"IT / SI",it-si,0
+185,"Outils bureautiques",outils-bureautiques,"Outils bureautiques",127,"IT / SI",it-si,0
+186,"Outils de supervisions",outils-de-supervisions,"Outils de supervisions",127,"IT / SI",it-si,0
+187,"Outils de test",outils-de-test,"Outils de test",127,"IT / SI",it-si,0
+188,"Outils middleware",outils-middleware,"Outils middleware",127,"IT / SI",it-si,0
+189,"Pilotage des développements agiles",pilotage-des-developpements-agiles,"Pilotage des développements agiles",127,"IT / SI",it-si,0
+190,"Plan de reprise d'activité PRA/PCA",plan-de-reprise-dactivite-pra-pca,"Plan de reprise d'activité PRA/PCA",127,"IT / SI",it-si,0
+191,"Plateforme échange B2B",plateforme-echange-b2b,"Plateforme échange B2B",127,"IT / SI",it-si,0
+192,"Produits non encore catégorisés",produits-non-encore-categorises,"Produits non encore catégorisés",127,"IT / SI",it-si,0
+193,"Protection des données - RGPD",protection-des-donnees-rgpd,"Protection des données - RGPD",127,"IT / SI",it-si,0
+194,"Protection du poste de travail",protection-du-poste-de-travail,"Protection du poste de travail",127,"IT / SI",it-si,0
+197,"Sauvegarde et archivage",sauvegarde-et-archivage,"Sauvegarde et archivage",127,"IT / SI",it-si,0
+198,"Security Operations center (SOC)",security-operations-center-soc,"Security Operations center (SOC)",127,"IT / SI",it-si,0
+199,"Serveurs d'application",serveurs-dapplication,"Serveurs d'application",127,"IT / SI",it-si,0
+200,"Signature électronique",signature-electronique,"Signature électronique",127,"IT / SI",it-si,0
+201,"Solutions d'Architecture d'entreprise",solutions-darchitecture-dentreprise,"Solutions d'Architecture d'entreprise",127,"IT / SI",it-si,0
+202,"Solutions de virtualisation",solutions-de-virtualisation,"Solutions de virtualisation",127,"IT / SI",it-si,0
+203,Stockage,stockage,Stockage,127,"IT / SI",it-si,1
+204,"Supervision Cloud",supervision-cloud,"Supervision Cloud",127,"IT / SI",it-si,0
+205,"Supervision des applications",supervision-des-applications,"Supervision des applications",127,"IT / SI",it-si,0
+206,"Supervision du Système d'information",supervision-du-systeme-dinformation,"Supervision du Système d'information",127,"IT / SI",it-si,0
+207,"Supervision et sécurisation réseau",supervision-et-securisation-reseau,"Supervision et sécurisation réseau",127,"IT / SI",it-si,0
+208,"Support aux utilisateurs",support-aux-utilisateurs,"Support aux utilisateurs",127,"IT / SI",it-si,0
+209,"Tableau de bord - BI",tableau-de-bord-bi,"Tableau de bord - BI",127,"IT / SI",it-si,0
+210,"Virtualisation du poste de travail et des applications",virtualisation-du-poste-de-travail-et-des-applications,"Virtualisation du poste de travail et des applications",127,"IT / SI",it-si,0
+211,Affrètement,affretement,Affrètement,128,"Logistique et supply chain",logistique-et-supply-chain,0
+212,"Edition de documents",edition-de-documents,"Edition de documents",128,"Logistique et supply chain",logistique-et-supply-chain,0
+213,"Flotte de véhicules",flotte-de-vehicules,"Flotte de véhicules",128,"Logistique et supply chain",logistique-et-supply-chain,0
+214,"Gestion de la supply chain financière",gestion-de-la-supply-chain-financiere,"Gestion de la supply chain financière",128,"Logistique et supply chain",logistique-et-supply-chain,0
+215,"Gestion des événements et des risques",gestion-des-evenements-et-des-risques,"Gestion des événements et des risques",128,"Logistique et supply chain",logistique-et-supply-chain,0
+216,"Opérations d'entreposage",operations-dentreposage,"Opérations d'entreposage",128,"Logistique et supply chain",logistique-et-supply-chain,0
+217,"Optimisation de tournées",optimisation-de-tournees,"Optimisation de tournées",128,"Logistique et supply chain",logistique-et-supply-chain,0
+218,"Planification de la supply chain",planification-de-la-supply-chain,"Planification de la supply chain",128,"Logistique et supply chain",logistique-et-supply-chain,0
+219,"Prévisions de vente",previsions-de-vente,"Prévisions de vente",128,"Logistique et supply chain",logistique-et-supply-chain,0
+220,"Traçabilité produits",tracabilite-produits,"Traçabilité produits",128,"Logistique et supply chain",logistique-et-supply-chain,0
+221,"Tracking transport",tracking-transport,"Tracking transport",128,"Logistique et supply chain",logistique-et-supply-chain,0
+222,"Campagnes marketing",campagnes-marketing,"Campagnes marketing",129,"Marketing et communication",marketing-et-communication,0
+223,"Contenus marketing",contenus-marketing,"Contenus marketing",129,"Marketing et communication",marketing-et-communication,0
+224,Editique,editique,Editique,129,"Marketing et communication",marketing-et-communication,0
+225,"Génération de leads",generation-de-leads,"Génération de leads",129,"Marketing et communication",marketing-et-communication,0
+226,"Gestion d'événements",gestion-devenements,"Gestion d'événements",129,"Marketing et communication",marketing-et-communication,0
+227,"Logiciels d'enquête",logiciels-denquete,"Logiciels d'enquête",129,"Marketing et communication",marketing-et-communication,0
+228,"Marketing conversationnel",marketing-conversationnel,"Marketing conversationnel",129,"Marketing et communication",marketing-et-communication,0
+229,"Réseaux sociaux",reseaux-sociaux,"Réseaux sociaux",129,"Marketing et communication",marketing-et-communication,0
+230,CFAO,cfao,CFAO,130,Production,production,0
+231,"Chiffrage et devis",chiffrage-et-devis,"Chiffrage et devis",130,Production,production,0
+232,"Exécution de la fabrication (MES)",execution-de-la-fabrication-mes,"Exécution de la fabrication (MES)",130,Production,production,0
+233,"GPAO et ordonnancement",gpao-et-ordonnancement,"GPAO et ordonnancement",130,Production,production,0
+234,"LIMS (Laboratory Information Management System)",lims-laboratory-information-management-system,"LIMS (Laboratory Information Management System)",130,Production,production,0
+235,Maintenance,maintenance,Maintenance,130,Production,production,0
+236,Qualité,qualite,Qualité,130,Production,production,0
+237,"SAV technique",sav-technique,"SAV technique",130,Production,production,0
+238,"SCADA (Système de contrôle et d'acquisition de données)",scada-systeme-de-controle-et-dacquisition-de-donnees,"SCADA (Système de contrôle et d'acquisition de données)",130,Production,production,0
+239,Sous-traitance,sous-traitance,Sous-traitance,130,Production,production,0
+240,"Calculs techniques",calculs-techniques,"Calculs techniques",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+241,"CAO &amp; CFAO",cao-cfao,"CAO &amp; CFAO",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+242,"Cycle de vie des produits (PLM)",cycle-de-vie-des-produits-plm,"Cycle de vie des produits (PLM)",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+243,"Gestion des données produits - PIM",gestion-des-donnees-produits-pim,"Gestion des données produits - PIM",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+244,"Gestion des données techniques - SGDT",gestion-des-donnees-techniques-sgdt,"Gestion des données techniques - SGDT",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+245,"Gestion des formules",gestion-des-formules,"Gestion des formules",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+246,"Management de l'innovation",management-de-linnovation,"Management de l'innovation",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+247,"Modélisation et simulation",modelisation-et-simulation,"Modélisation et simulation",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+248,"Processus de conception R&amp;D",processus-de-conception-rd,"Processus de conception R&amp;D",131,"R&amp;D - Conception &amp; innovation",rd-conception-innovation,0
+249,"Campagnes marketing",campagnes-marketing-relation-client,"Campagnes marketing",132,"Relation client",relation-client,0
+250,"Centre d'appel",centre-dappel,"Centre d'appel",132,"Relation client",relation-client,0
+251,"Commerce internatinal",commerce-internatinal,"Commerce internatinal",132,"Relation client",relation-client,0
+252,"Force de vente",force-de-vente,"Force de vente",132,"Relation client",relation-client,0
+253,"Gestion des abonnements",gestion-des-abonnements,"Gestion des abonnements",132,"Relation client",relation-client,0
+254,"Gestion des affaires",gestion-des-affaires,"Gestion des affaires",132,"Relation client",relation-client,0
+255,"Informations produits",informations-produits,"Informations produits",132,"Relation client",relation-client,0
+256,"Prévisions de vente",previsions-de-vente-relation-client,"Prévisions de vente",132,"Relation client",relation-client,0
+257,"Service clients",service-clients,"Service clients",132,"Relation client",relation-client,0
+258,"Territoires géographiques et secteurs",territoires-geographiques-et-secteurs,"Territoires géographiques et secteurs",132,"Relation client",relation-client,0
+259,"Administration des RH",administration-des-rh,"Administration des RH",133,"Ressources Humaines",ressources-humaines,0
+260,Compétences,competences,Compétences,133,"Ressources Humaines",ressources-humaines,0
+261,Formation,formation,Formation,133,"Ressources Humaines",ressources-humaines,0
+262,Intérim,interim,Intérim,133,"Ressources Humaines",ressources-humaines,0
+263,"Management de l'innovation",management-de-linnovation-ressources-humaines,"Management de l'innovation",133,"Ressources Humaines",ressources-humaines,0
+264,"Notes de frais",notes-de-frais-ressources-humaines,"Notes de frais",133,"Ressources Humaines",ressources-humaines,0
+265,Paie,paie,Paie,133,"Ressources Humaines",ressources-humaines,0
+266,Recrutement,recrutement,Recrutement,133,"Ressources Humaines",ressources-humaines,0
+267,Rémunérations,remunerations,Rémunérations,133,"Ressources Humaines",ressources-humaines,0
+268,"Talents et carrières",talents-et-carrieres,"Talents et carrières",133,"Ressources Humaines",ressources-humaines,0
+269,"Temps et activité",temps-et-activite,"Temps et activité",133,"Ressources Humaines",ressources-humaines,0
+270,"Gestion de catalogues",gestion-de-catalogues,"Gestion de catalogues",134,"Ventes &amp; Distribution",ventes-distribution,0
+271,"Gestion de centrales d'achats et de la grande distribution",gestion-de-centrales-dachats-et-de-la-grande-distribution,"Gestion de centrales d'achats et de la grande distribution",134,"Ventes &amp; Distribution",ventes-distribution,0
+272,"Gestion de fidélité",gestion-de-fidelite,"Gestion de fidélité",134,"Ventes &amp; Distribution",ventes-distribution,0
+273,"Gestion de magasins spécialisés",gestion-de-magasins-specialises,"Gestion de magasins spécialisés",134,"Ventes &amp; Distribution",ventes-distribution,0
+274,"Gestion de services aux particuliers",gestion-de-services-aux-particuliers,"Gestion de services aux particuliers",134,"Ventes &amp; Distribution",ventes-distribution,0
+275,"Gestion de sites e-commerce",gestion-de-sites-e-commerce,"Gestion de sites e-commerce",134,"Ventes &amp; Distribution",ventes-distribution,0
+276,"Gestion d'entrepôts de distribution",gestion-dentrepots-de-distribution,"Gestion d'entrepôts de distribution",134,"Ventes &amp; Distribution",ventes-distribution,0
+277,"Gestion du commerce international",gestion-du-commerce-international,"Gestion du commerce international",134,"Ventes &amp; Distribution",ventes-distribution,0

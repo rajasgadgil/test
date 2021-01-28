@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <termid><![CDATA[305]]></termid>
+    <termname><![CDATA[fr]]></termname>
+    <termslug><![CDATA[fr]]></termslug>
+    <description><![CDATA[French]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname></parentname>
+    <parentslug></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[306]]></termid>
+    <termname><![CDATA[en]]></termname>
+    <termslug><![CDATA[en]]></termslug>
+    <description><![CDATA[English]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname></parentname>
+    <parentslug></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[307]]></termid>
+    <termname><![CDATA[de]]></termname>
+    <termslug><![CDATA[de]]></termslug>
+    <description><![CDATA[German]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname></parentname>
+    <parentslug></parentslug>
+    <count><![CDATA[1]]></count>
+  </item>
+</wpiedata>

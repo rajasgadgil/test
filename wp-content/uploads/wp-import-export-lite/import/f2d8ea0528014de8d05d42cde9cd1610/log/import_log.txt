@@ -1,0 +1,90 @@
+[12:44:54] <strong>Record</strong> #1
+[12:44:54] post #2625 Successfully Imported
+[12:44:54] <strong>Record</strong> #2
+[12:44:54] post #2626 Successfully Imported
+[12:44:54] <strong>Record</strong> #3
+[12:44:54] post #2627 Successfully Imported
+[12:44:54] <strong>Record</strong> #4
+[12:44:55] post #2628 Successfully Imported
+[12:44:55] <strong>Record</strong> #5
+[12:44:55] post #2629 Successfully Imported
+[12:44:55] <strong>Record</strong> #6
+[12:44:55] post #2630 Successfully Imported
+[12:44:55] <strong>Record</strong> #7
+[12:44:55] post #2631 Successfully Imported
+[12:44:55] <strong>Record</strong> #8
+[12:44:55] post #2632 Successfully Imported
+[12:44:55] <strong>Record</strong> #9
+[12:44:55] post #2633 Successfully Imported
+[12:44:55] <strong>Record</strong> #10
+[12:44:55] post #2634 Successfully Imported
+[12:44:55] <strong>Record</strong> #11
+[12:44:55] post #2635 Successfully Imported
+[12:44:55] <strong>Record</strong> #12
+[12:44:55] Existing item found #3
+[12:44:55] post #3 Successfully Imported
+[12:44:55] <strong>Record</strong> #13
+[12:44:55] post #2637 Successfully Imported
+[12:44:55] <strong>Record</strong> #14
+[12:44:56] post #2638 Successfully Imported
+[12:44:56] <strong>Record</strong> #15
+[12:44:56] post #2639 Successfully Imported
+[12:44:56] <strong>Record</strong> #16
+[12:44:56] post #2640 Successfully Imported
+[12:44:56] <strong>Record</strong> #17
+[12:44:56] post #2641 Successfully Imported
+[12:44:56] <strong>Record</strong> #18
+[12:44:56] <strong>ERROR</strong> : Modèle de page non valide.
+[12:44:56] <strong>Record</strong> #19
+[12:44:56] post #2643 Successfully Imported
+[12:44:56] <strong>Record</strong> #20
+[12:44:56] post #2644 Successfully Imported
+[12:44:57] <strong>Record</strong> #21
+[12:44:57] Existing item found #2644
+[12:44:57] post #2644 Successfully Imported
+[12:44:57] <strong>Record</strong> #22
+[12:44:57] Existing item found #2644
+[12:44:58] post #2644 Successfully Imported
+[12:44:58] <strong>Record</strong> #23
+[12:44:58] <strong>ERROR</strong> : Modèle de page non valide.
+[12:44:58] <strong>Record</strong> #24
+[12:44:58] post #2648 Successfully Imported
+[12:44:58] <strong>Record</strong> #25
+[12:44:58] post #2649 Successfully Imported
+[12:44:58] <strong>Record</strong> #26
+[12:44:58] post #2650 Successfully Imported
+[12:44:58] <strong>Record</strong> #27
+[12:44:58] Existing item found #2649
+[12:44:58] post #2649 Successfully Imported
+[12:44:58] <strong>Record</strong> #28
+[12:44:58] post #2652 Successfully Imported
+[12:44:58] <strong>Record</strong> #29
+[12:44:58] post #2653 Successfully Imported
+[12:44:58] <strong>Record</strong> #30
+[12:44:58] Existing item found #2615
+[12:44:59] post #2615 Successfully Imported
+[12:44:59] <strong>Record</strong> #31
+[12:44:59] Existing item found #2648
+[12:44:59] post #2648 Successfully Imported
+[12:44:59] <strong>Record</strong> #32
+[12:44:59] Existing item found #2648
+[12:44:59] post #2648 Successfully Imported
+[12:44:59] <strong>Record</strong> #33
+[12:44:59] Existing item found #2615
+[12:44:59] post #2615 Successfully Imported
+[12:44:59] <strong>Record</strong> #34
+[12:44:59] Existing item found #2625
+[12:44:59] post #2625 Successfully Imported
+[12:44:59] <strong>Record</strong> #35
+[12:44:59] post #2658 Successfully Imported
+[12:44:59] <strong>Record</strong> #36
+[12:44:59] post #2659 Successfully Imported
+[12:44:59] <strong>Record</strong> #37
+[12:44:59] post #2660 Successfully Imported
+[12:44:59] <strong>Record</strong> #38
+[12:44:59] post #2661 Successfully Imported
+[12:44:59] <strong>Record</strong> #39
+[12:44:59] post #2662 Successfully Imported
+[12:44:59] <strong>Record</strong> #40
+[12:44:59] Existing item found #2662
+[12:44:59] post #2662 Successfully Imported

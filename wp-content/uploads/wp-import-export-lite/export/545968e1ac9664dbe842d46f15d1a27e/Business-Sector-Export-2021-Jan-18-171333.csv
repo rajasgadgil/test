@@ -1,0 +1,15 @@
+"Term ID","Term Name","Term Slug",Description,"Parent ID","Parent Name","Parent Slug",Count
+27,Industries,industries,Industries,0,,,0
+28,Energies,energies,Energies,0,,,0
+29,"Commerce (gros et détails)",commerce-gros-et-details,"Commerce (gros et détails)",0,,,1
+30,Transports,transports,Transports,0,,,0
+31,Services,services,Services,0,,,0
+32,Télécommunication,telecommunication,Télécommunication,0,,,1
+33,Banque,banque,Banque,0,,,1
+34,Assurance,assurance,Assurance,0,,,2
+35,"Secteur public",secteur-public,"Secteur public",0,,,0
+36,Immobilier,immobilier,Immobilier,0,,,0
+37,Construction,construction,Construction,0,,,0
+38,Thieree,thieree,"Thieree desc",0,,,0
+39,testing,testing,,0,,,0
+40,"new sector tag",new-sector-tag,"just for testing",0,,,0

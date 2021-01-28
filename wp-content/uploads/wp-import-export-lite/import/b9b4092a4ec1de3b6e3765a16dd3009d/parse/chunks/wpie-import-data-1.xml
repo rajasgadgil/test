@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur informatique - DSI]]></termname>
+    <termslug><![CDATA[directeur-informatique-dsi]]></termslug>
+    <description><![CDATA[Directeur informatique - DSI]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Responsable applicatif]]></termname>
+    <termslug><![CDATA[responsable-applicatif]]></termslug>
+    <description><![CDATA[Responsable applicatif]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Responsable infrastructure]]></termname>
+    <termslug><![CDATA[responsable-infrastructure]]></termslug>
+    <description><![CDATA[Responsable infrastructure]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Responsable fournisseurs]]></termname>
+    <termslug><![CDATA[responsable-fournisseurs]]></termslug>
+    <description><![CDATA[Responsable fournisseurs]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Autres membres de l'équipe IT]]></termname>
+    <termslug><![CDATA[autres-membres-equipe-it]]></termslug>
+    <description><![CDATA[Autres membres de l'équipe IT]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur digital]]></termname>
+    <termslug><![CDATA[directeur-digital]]></termslug>
+    <description><![CDATA[Directeur digital]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Responsable BI/DATA]]></termname>
+    <termslug><![CDATA[responsable-bi-data]]></termslug>
+    <description><![CDATA[Responsable BI/DATA]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Responsable produit]]></termname>
+    <termslug><![CDATA[responsable-produit]]></termslug>
+    <description><![CDATA[Responsable produit]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur général]]></termname>
+    <termslug><![CDATA[directeur-general]]></termslug>
+    <description><![CDATA[Directeur général]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Responsable sécurité RSSI]]></termname>
+    <termslug><![CDATA[responsable-securite-rssi]]></termslug>
+    <description><![CDATA[Responsable sécurité RSSI]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Commercial]]></termname>
+    <termslug><![CDATA[directeur-commercial]]></termslug>
+    <description><![CDATA[Directeur Commercial]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Administratif et Financier]]></termname>
+    <termslug><![CDATA[directeur-administratif-et-financier]]></termslug>
+    <description><![CDATA[Directeur Administratif et Financier]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur RH]]></termname>
+    <termslug><![CDATA[directeur-rh]]></termslug>
+    <description><![CDATA[Directeur RH]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Marketing]]></termname>
+    <termslug><![CDATA[directeur-marketing]]></termslug>
+    <description><![CDATA[Directeur Marketing]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Supply chain]]></termname>
+    <termslug><![CDATA[directeur-supply-chain]]></termslug>
+    <description><![CDATA[Directeur Supply chain]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Industrielles]]></termname>
+    <termslug><![CDATA[directeur-industrielles]]></termslug>
+    <description><![CDATA[Directeur Industrielles]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Logistique]]></termname>
+    <termslug><![CDATA[directeur-logistique]]></termslug>
+    <description><![CDATA[Directeur Logistique]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Organisation]]></termname>
+    <termslug><![CDATA[directeur-organisation]]></termslug>
+    <description><![CDATA[Directeur Organisation]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Qualité]]></termname>
+    <termslug><![CDATA[directeur-qualite]]></termslug>
+    <description><![CDATA[Directeur Qualité]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Achats]]></termname>
+    <termslug><![CDATA[directeur-achats]]></termslug>
+    <description><![CDATA[Directeur Achats]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur des opérations]]></termname>
+    <termslug><![CDATA[directeur-des-operations]]></termslug>
+    <description><![CDATA[Directeur des opérations]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Technique - CTO]]></termname>
+    <termslug><![CDATA[directeur-technique-cto]]></termslug>
+    <description><![CDATA[Directeur Technique - CTO]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Secrétaire Général]]></termname>
+    <termslug><![CDATA[secretaire-general]]></termslug>
+    <description><![CDATA[Secrétaire Général]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Président]]></termname>
+    <termslug><![CDATA[president]]></termslug>
+    <description><![CDATA[Président]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur de la communication]]></termname>
+    <termslug><![CDATA[directeur-de-la-communication]]></termslug>
+    <description><![CDATA[Directeur de la communication]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur des Services Clients]]></termname>
+    <termslug><![CDATA[directeur-des-services-clients]]></termslug>
+    <description><![CDATA[Directeur des Services Clients]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+  <item>
+    <termid/>
+    <termname><![CDATA[Directeur Etudes et Développement]]></termname>
+    <termslug><![CDATA[directeur-etudes-et-developpement]]></termslug>
+    <description><![CDATA[Directeur Etudes et Développement]]></description>
+    <parentid/>
+    <parentname/>
+    <parentslug/>
+    <count/>
+  </item>
+</wpiedata>

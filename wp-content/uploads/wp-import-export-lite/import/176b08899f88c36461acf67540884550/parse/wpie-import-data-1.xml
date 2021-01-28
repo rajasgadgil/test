@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <id><![CDATA[1623]]></id>
+    <title><![CDATA[Homepage]]></title>
+    <content></content>
+    <excerpt></excerpt>
+    <date><![CDATA[6 January, 2021]]></date>
+    <posttype><![CDATA[page]]></posttype>
+    <permalink><![CDATA[https://aeon.blvckpixel.com/homepage/]]></permalink>
+    <_av_alb_element_mgr_version></_av_alb_element_mgr_version>
+    <_av_alb_posts_elements_state><![CDATA[a:0:{}]]></_av_alb_posts_elements_state>
+    <_av_el_mgr_version><![CDATA[1.0]]></_av_el_mgr_version>
+    <_avia_builder_shortcode_tree><![CDATA[a:0:{}]]></_avia_builder_shortcode_tree>
+    <_avia_sc_parser_state><![CDATA[check_only]]></_avia_sc_parser_state>
+    <_avialayoutbuilder_active></_avialayoutbuilder_active>
+    <_avialayoutbuildercleandata></_avialayoutbuildercleandata>
+    <_calender_icon></_calender_icon>
+    <_ended_event_title></_ended_event_title>
+    <_header></_header>
+    <_location_icon></_location_icon>
+    <_online_icon></_online_icon>
+    <_page_title></_page_title>
+    <_read_more_button_text></_read_more_button_text>
+    <_register_button_text></_register_button_text>
+    <_small_slider_logo_and_text></_small_slider_logo_and_text>
+    <_small_slider_logo_and_text_0_small_slider_image></_small_slider_logo_and_text_0_small_slider_image>
+    <_small_slider_logo_and_text_0_small_slider_title></_small_slider_logo_and_text_0_small_slider_title>
+    <_small_slider_logo_and_text_1_small_slider_image></_small_slider_logo_and_text_1_small_slider_image>
+    <_small_slider_logo_and_text_1_small_slider_title></_small_slider_logo_and_text_1_small_slider_title>
+    <_small_slider_logo_and_text_2_small_slider_image></_small_slider_logo_and_text_2_small_slider_image>
+    <_small_slider_logo_and_text_2_small_slider_title></_small_slider_logo_and_text_2_small_slider_title>
+    <_small_slider_logo_and_text_3_small_slider_image></_small_slider_logo_and_text_3_small_slider_image>
+    <_small_slider_logo_and_text_3_small_slider_title></_small_slider_logo_and_text_3_small_slider_title>
+    <_small_slider_logo_and_text_4_small_slider_image></_small_slider_logo_and_text_4_small_slider_image>
+    <_small_slider_logo_and_text_4_small_slider_title></_small_slider_logo_and_text_4_small_slider_title>
+    <_sub_header></_sub_header>
+    <_thumbnail_id></_thumbnail_id>
+    <_time_icon></_time_icon>
+    <_wp_desired_post_slug></_wp_desired_post_slug>
+    <_wp_page_template><![CDATA[default]]></_wp_page_template>
+    <_wp_trash_meta_status></_wp_trash_meta_status>
+    <_wp_trash_meta_time></_wp_trash_meta_time>
+    <_yoast_wpseo_content_score></_yoast_wpseo_content_score>
+    <_yoast_wpseo_estimatedreadingtimeminutes></_yoast_wpseo_estimatedreadingtimeminutes>
+    <calender_icon></calender_icon>
+    <ended_event_title></ended_event_title>
+    <footer></footer>
+    <header></header>
+    <header_title_bar></header_title_bar>
+    <header_transparency></header_transparency>
+    <inline_featured_image><![CDATA[0]]></inline_featured_image>
+    <layout></layout>
+    <location_icon></location_icon>
+    <ocean_center_header_left_menu></ocean_center_header_left_menu>
+    <ocean_custom_footer_template></ocean_custom_footer_template>
+    <ocean_custom_header_template></ocean_custom_header_template>
+    <ocean_disable_breadcrumbs></ocean_disable_breadcrumbs>
+    <ocean_disable_heading></ocean_disable_heading>
+    <ocean_disable_margins></ocean_disable_margins>
+    <ocean_disable_title></ocean_disable_title>
+    <ocean_display_footer_bottom></ocean_display_footer_bottom>
+    <ocean_display_footer_widgets></ocean_display_footer_widgets>
+    <ocean_display_header></ocean_display_header>
+    <ocean_display_top_bar></ocean_display_top_bar>
+    <ocean_header_custom_menu></ocean_header_custom_menu>
+    <ocean_menu_typo_font_family></ocean_menu_typo_font_family>
+    <ocean_post_layout></ocean_post_layout>
+    <ocean_second_sidebar></ocean_second_sidebar>
+    <ocean_sidebar></ocean_sidebar>
+    <online_icon></online_icon>
+    <page_title></page_title>
+    <panels_data></panels_data>
+    <ppma_authors_name><![CDATA[Smita Mishra]]></ppma_authors_name>
+    <read_more_button_text></read_more_button_text>
+    <register_button_text></register_button_text>
+    <sidebar></sidebar>
+    <small_slider_logo_and_text></small_slider_logo_and_text>
+    <small_slider_logo_and_text_0_small_slider_image></small_slider_logo_and_text_0_small_slider_image>
+    <small_slider_logo_and_text_0_small_slider_title></small_slider_logo_and_text_0_small_slider_title>
+    <small_slider_logo_and_text_1_small_slider_image></small_slider_logo_and_text_1_small_slider_image>
+    <small_slider_logo_and_text_1_small_slider_title></small_slider_logo_and_text_1_small_slider_title>
+    <small_slider_logo_and_text_2_small_slider_image></small_slider_logo_and_text_2_small_slider_image>
+    <small_slider_logo_and_text_2_small_slider_title></small_slider_logo_and_text_2_small_slider_title>
+    <small_slider_logo_and_text_3_small_slider_image></small_slider_logo_and_text_3_small_slider_image>
+    <small_slider_logo_and_text_3_small_slider_title></small_slider_logo_and_text_3_small_slider_title>
+    <small_slider_logo_and_text_4_small_slider_image></small_slider_logo_and_text_4_small_slider_image>
+    <small_slider_logo_and_text_4_small_slider_title></small_slider_logo_and_text_4_small_slider_title>
+    <sub_header></sub_header>
+    <time_icon></time_icon>
+    <um_content_restriction></um_content_restriction>
+    <folders></folders>
+    <authors><![CDATA[Smita Mishra]]></authors>
+    <imageurl></imageurl>
+    <imagesfilename></imagesfilename>
+    <imagespath></imagespath>
+    <imagesid></imagesid>
+    <imagestitle></imagestitle>
+    <imagescaption></imagescaption>
+    <imagesdescription></imagesdescription>
+    <imagesalttext></imagesalttext>
+    <attachmenturl></attachmenturl>
+    <attachmentsfilename></attachmentsfilename>
+    <attachmentspath></attachmentspath>
+    <attachmentsid></attachmentsid>
+    <attachmentstitle></attachmentstitle>
+    <attachmentscaption></attachmentscaption>
+    <attachmentsdescription></attachmentsdescription>
+    <attachmentsalttext></attachmentsalttext>
+    <status><![CDATA[publish]]></status>
+    <authorid><![CDATA[26]]></authorid>
+    <authorusername><![CDATA[smita]]></authorusername>
+    <authoremail><![CDATA[smita.mishra@blvckpixel.com]]></authoremail>
+    <authorfirstname><![CDATA[Smita]]></authorfirstname>
+    <authorlastname><![CDATA[Mishra]]></authorlastname>
+    <slug><![CDATA[homepage]]></slug>
+    <format></format>
+    <template><![CDATA[default]]></template>
+    <parent><![CDATA[0]]></parent>
+    <parentslug><![CDATA[0]]></parentslug>
+    <order><![CDATA[0]]></order>
+    <commentstatus><![CDATA[closed]]></commentstatus>
+    <pingstatus><![CDATA[closed]]></pingstatus>
+    <postmodifieddate><![CDATA[6 January, 2021]]></postmodifieddate>
+  </item>
+  <item>
+    <id><![CDATA[1707]]></id>
+    <title><![CDATA[Homepage]]></title>
+    <content><![CDATA[[av_section min_height='100' min_height_pc='25' min_height_px='500px' padding='default' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_gradient' custom_bg='' background_gradient_color1='#225fa1' background_gradient_color2='#0a2d5b' background_gradient_direction='diagonal_tb' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.1' overlay_color='' overlay_pattern='custom' overlay_custom_pattern='https://aeon.blvckpixel.com/wp-content/uploads/2021/01/teknow-overlay.png' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-home' custom_class='' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kik47zdk']
+[av_textblock size='18' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' id='' custom_class='' av_uid='av-kikb6psv' admin_preview_bg='']
+&lt;p style=&quot;text-align: center; color: white; margin: revert;&quot;&gt;Comprendre les enjeux, comparer les solutions et partenaires,&lt;/p&gt;
+&lt;p style=&quot;text-align: center; font-family: 'avenir-black'; font-size: 25px; line-height: 35px; margin: revert;&quot;&gt;&lt;strong&gt;disposer de préconisations pour accélérer la prise de décision.&lt;/strong&gt;&lt;/p&gt;
+[/av_textblock]
+
+[av_slideshow size='featured' control_layout='av-control-default' conditional_play='' animation='slide' transition_speed='' autoplay='false' interval='5' lazy_loading='disabled' alb_description='' id='' custom_class='' av_uid='av-kjonl8sg']
+[av_slide slide_type='image' id='1907' video='https://' mobile_image='' fallback_link='https://' title='&lt;span&gt;Featured Whitepaper&lt;/span&gt; Gestion de Crise' video_ratio='16:9' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' heading_tag='' heading_class='' link_apply='' link='lightbox' link_target='' av_uid='av-4ed4ij']
+Adapter son systèmes d'information à une crise majeure ou une pandèmie
+
+[av_buttonrow alignment='left' button_spacing='5' button_spacing_unit='px' alb_description='' id='pm-doublebutton' custom_class=''slider-custom av_uid='av-kik4xkei' admin_preview_bg='']
+[av_buttonrow_item label='prévisualiser cet article
+' icon_select='no' icon='4' font='entypo-fontello' link='manually,http://' link_target='' size='large' label_display='' title_attr='' color_options='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-672f']
+[av_buttonrow_item label='Devenir membre' icon_select='yes-right-icon' icon='ue879' font='entypo-fontello' link='manually,/become-member/' link_target='' size='large' label_display='' title_attr='' color_options='' color='light' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-zt6z']
+[/av_buttonrow]
+[/av_slide]
+[av_slide slide_type='image' id='1907' video='https://' mobile_image='' fallback_link='https://' title='&lt;span&gt;Featured Whitepaper&lt;/span&gt; Gestion de Crise' video_ratio='16:9' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' heading_tag='' heading_class='' link_apply='' link='lightbox' link_target='' av_uid='av-2zjcln']
+Adapter son systèmes d'information à une crise majeure ou une pandèmie
+
+[av_buttonrow alignment='left' button_spacing='5' button_spacing_unit='px' alb_description='' id='pm-doublebutton' custom_class='' av_uid='av-kik4xkei' admin_preview_bg='']
+[av_buttonrow_item label='prévisualiser cet article
+' icon_select='no' icon='4' font='entypo-fontello' link='manually,http://' link_target='' size='large' label_display='' title_attr='' color_options='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-672f']
+[av_buttonrow_item label='Devenir membre' icon_select='yes-right-icon' icon='ue879' font='entypo-fontello' link='manually,/become-member/' link_target='' size='large' label_display='' title_attr='' color_options='' color='light' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-zt6z']
+[/av_buttonrow]
+[/av_slide]
+[/av_slideshow]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='50' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kike9pj3' admin_preview_bg='']
+[/av_section]
+
+[av_section min_height='25' min_height_pc='25' min_height_px='500px' padding='no-padding' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='http://aeon.blvckpixel.com/wp-content/uploads/2021/01/dot-bg1.jpg' attachment='1710' attachment_size='full' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.6' overlay_color='#ffffff' overlay_pattern='' overlay_custom_pattern='' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-homesectors' custom_class='' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kik9wpiq']
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='50' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kike9pj3' admin_preview_bg='']
+
+[av_one_full first min_height='' vertical_alignment='' space='' row_boxshadow='' row_boxshadow_color='' row_boxshadow_width='10' custom_margin='' margin='0px' mobile_breaking='' border='' border_color='' radius='0px' padding='0px' column_boxshadow='' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' background_position='top left' background_repeat='no-repeat' highlight='' highlight_size='' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-1vwiuz']
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' av-small-hide='aviaTBav-small-hide' av-mini-hide='aviaTBav-mini-hide' id='' custom_class='' av_uid='av-kikb6psv' admin_preview_bg='']
+&lt;p style=&quot;text-align: center;&quot;&gt;[theta-carousel id='1719']&lt;/p&gt;
+[/av_textblock]
+
+[av_gallery ids='347,346,345,344,342,475,343,341,340' style='thumbnails' preview_size='portfolio' crop_big_preview_thumbnail='avia-gallery-big-crop-thumb' thumb_size='no scaling' columns='2' imagelink='custom_link' link_dest='' lightbox_text='caption' lazyload='avia_lazyload' html_lazy_loading='disabled' av-desktop-hide='aviaTBav-desktop-hide' av-medium-hide='aviaTBav-medium-hide' alb_description='' id='' custom_class='' av_uid='av-kin42cvl' admin_preview_bg='']
+
+[/av_one_full]
+[/av_section]
+
+[av_section min_height='' min_height_pc='25' min_height_px='500px' padding='default' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='http://aeon.blvckpixel.com/wp-content/uploads/2021/01/myteknow-bg-1.jpg' attachment='1712' attachment_size='full' attach='fixed' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-services' custom_class='pm-fullwidth' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kikbodn2']
+
+[av_image src='https://aeon.blvckpixel.com/wp-content/uploads/2021/01/white-border-1.png' attachment='2278' attachment_size='full' copyright='' caption='' styling='' align='center' font_size='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' hover='' appearance='' link='' target='' title_attr='' alt_attr='' lazy_loading='disabled' id='' custom_class='' av_element_hidden_in_editor='0' av_uid='av-kikbo438' admin_preview_bg=''][/av_image]
+
+[av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='left-to-right' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kikct0h0']
+
+[av_heading heading='Actualités' tag='h2' link='' link_target='' style='blockquote modern-quote' size='' subheading_active='subheading_above' subheading_size='' margin='' padding='10' icon_padding='10' color='custom-color-heading' custom_font='#ffffff' icon_color='' show_icon='' icon='ue800' font='' icon_size='' custom_class='' id='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='']
+Rester informé
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='custom' color='rgba(255,255,255,0.6)' id='' custom_class='' av_uid='av-kik4s6u2' admin_preview_bg='']
+&lt;div class=&quot;raw_components--panel--3IcXg inspect_panels--inspectionPanel--3Wboz&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ&quot;&gt;Vous venez d'investir dans un véhicule neuf, celui de vos rêves, et vous l'emmenez en voyage à travers le Canada. Vous ne mettez que du gaz dedans et conduisez des visites touristiques et suivez votre nez. Les filtres et les changements d'huile sont ignorés. La voiture tombe en panne au milieu de ce long tronçon de route entre le Manitoba et ...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[/av_textblock]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='20' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kikdehhm' admin_preview_bg='']
+
+[av_button label='En savoir plus' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,https://aeon.blvckpixel.com/nouvelles/' link_target='' size='large' position='left' label_display='' title_attr='' color_options='' color='custom' custom_bg='#ffffff' custom_font='#0d3260' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kikddoen' admin_preview_bg='']
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0' padding_sync='true' column_boxshadow_color='rgba(10,10,10,0.4)' column_boxshadow_width='20' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilew7rd']
+
+[av_masonry_entries post_type='news' link='post_tag,290,282,111,287,283,195,42,43,289,44,106,288,110,109' wc_prod_visible='' wc_prod_hidden='hide' wc_prod_featured='' prod_order_by='' prod_order='' date_filter='' date_filter_start='' date_filter_end='' date_filter_format='yy/mm/dd' sort='no' query_orderby='date' query_order='ASC' caption_elements='title' caption_styling='' caption_display='always' size='fixed' orientation='' gap='large' columns='2' av-medium-columns='' av-small-columns='' av-mini-columns='' items='4' paginate='none' color='' custom_bg='' overlay_fx='active' animation='active' lazy_loading='disabled' id='' custom_class='' av_uid='av-kileifbg']
+
+[/av_two_third][av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='30' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kilfxt3v' admin_preview_bg='']
+
+[av_two_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0' padding_sync='true' column_boxshadow_color='rgba(10,10,10,0.4)' column_boxshadow_width='20' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilew7rd']
+
+[av_masonry_entries post_type='event' link='post_tag,290,282,111,287,283,195,42,43,289,44,106,288,110,109' wc_prod_visible='' wc_prod_hidden='hide' wc_prod_featured='' prod_order_by='' prod_order='' date_filter='' date_filter_start='' date_filter_end='' date_filter_format='yy/mm/dd' sort='no' query_orderby='date' query_order='ASC' caption_elements='title' caption_styling='' caption_display='always' size='fixed' orientation='' gap='large' columns='2' av-medium-columns='' av-small-columns='' av-mini-columns='' items='4' paginate='none' color='' custom_bg='' overlay_fx='active' animation='active' lazy_loading='disabled' id='' custom_class='' av_uid='av-kileifbg']
+
+[/av_two_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='right-to-left' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kikct0h0']
+
+[av_heading heading='Evénements' tag='h2' link='' link_target='' style='blockquote modern-quote' size='' subheading_active='subheading_above' subheading_size='' margin='' padding='10' icon_padding='10' color='custom-color-heading' custom_font='#ffffff' icon_color='' show_icon='' icon='ue800' font='' icon_size='' custom_class='' id='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='']
+Être impliqué
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='custom' color='rgba(255,255,255,0.6)' id='' custom_class='' av_uid='av-kik4s6u2' admin_preview_bg='']
+&lt;div class=&quot;raw_components--panel--3IcXg inspect_panels--inspectionPanel--3Wboz&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ&quot;&gt;Vous venez d'investir dans un véhicule neuf, celui de vos rêves, et vous l'emmenez en voyage à travers le Canada. Vous ne mettez que du gaz dedans et conduisez des visites touristiques et suivez votre nez. Les filtres et les changements d'huile sont ignorés. La voiture tombe en panne au milieu de ce long tronçon de route entre le Manitoba et ...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[/av_textblock]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='20' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kikdehhm' admin_preview_bg='']
+
+[av_button label='En savoir plus' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,https://aeon.blvckpixel.com/events/' link_target='' size='large' position='left' label_display='' title_attr='' color_options='' color='custom' custom_bg='#ffffff' custom_font='#0d3260' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kikddoen' admin_preview_bg='']
+
+[/av_one_third][av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='30' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kilfxt3v' admin_preview_bg='']
+
+[av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='left-to-right' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kikct0h0']
+
+[av_heading heading='Des articles' tag='h2' link='' link_target='' style='blockquote modern-quote' size='' subheading_active='subheading_above' subheading_size='' margin='' padding='10' icon_padding='10' color='custom-color-heading' custom_font='#ffffff' icon_color='' show_icon='' icon='ue800' font='' icon_size='' custom_class='' id='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='']
+Lire la dernière
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='custom' color='rgba(255,255,255,0.6)' id='' custom_class='' av_uid='av-kik4s6u2' admin_preview_bg='']
+&lt;div class=&quot;raw_components--panel--3IcXg inspect_panels--inspectionPanel--3Wboz&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ&quot;&gt;Vous venez d'investir dans un véhicule neuf, celui de vos rêves, et vous l'emmenez en voyage à travers le Canada. Vous ne mettez que du gaz dedans et conduisez des visites touristiques et suivez votre nez. Les filtres et les changements d'huile sont ignorés. La voiture tombe en panne au milieu de ce long tronçon de route entre le Manitoba et ...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[/av_textblock]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='20' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kikdehhm' admin_preview_bg='']
+
+[av_button label='En savoir plus' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,https://aeon.blvckpixel.com/articles/' link_target='' size='large' position='left' label_display='' title_attr='' color_options='' color='custom' custom_bg='#ffffff' custom_font='#0d3260' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kikddoen' admin_preview_bg='']
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0' padding_sync='true' column_boxshadow_color='rgba(10,10,10,0.4)' column_boxshadow_width='20' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilew7rd']
+
+[av_masonry_entries post_type='article' link='post_tag,290,282,111,287,283,195,42,43,289,44,106,288,110,109' wc_prod_visible='' wc_prod_hidden='hide' wc_prod_featured='' prod_order_by='' prod_order='' date_filter='' date_filter_start='' date_filter_end='' date_filter_format='yy/mm/dd' sort='no' query_orderby='date' query_order='ASC' caption_elements='title' caption_styling='' caption_display='always' size='fixed' orientation='' gap='large' columns='2' av-medium-columns='' av-small-columns='' av-mini-columns='' items='4' paginate='none' color='' custom_bg='' overlay_fx='active' animation='active' lazy_loading='disabled' id='' custom_class='' av_uid='av-kileifbg']
+
+[/av_two_third][/av_section][av_section min_height='' min_height_pc='25' min_height_px='500px' padding='large' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='http://13.58.129.79/wp-content/uploads/2020/12/dot-bg2.jpg' attachment='488' attachment_size='full' attach='scroll' position='top right' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.6' overlay_color='#ffffff' overlay_pattern='' overlay_custom_pattern='' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-about' custom_class='' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kilh4h4d']
+[av_one_fifth first min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='right-to-left' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='av-hide-on-mobile' id='' custom_class='' aria_label='' av_uid='av-kilkwlxs']
+
+[/av_one_fifth][av_three_fifth min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='fade-in' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilh6ce2']
+
+[av_heading heading='Qu’est-ce que Myteknow?' tag='h2' style='blockquote modern-quote modern-centered' subheading_active='subheading_above' show_icon='' icon='ue800' font='' size='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' subheading_size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' icon_size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='' color='' custom_font='' icon_color='' margin='' margin_sync='true' padding='10' icon_padding='10' link='' link_target='' id='' custom_class='' av_uid='av-kjskj3mz' admin_preview_bg='']
+Découvrez comment nous pouvons vous aider
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' id='' custom_class='' av_uid='av-kilh3zf6' admin_preview_bg='']
+&lt;p style=&quot;text-align: center;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida malesuada ullamcorper. Cras et elit imperdiet, semper purus eu, ullamcorper ipsum. Duis at risus et velit tincidunt efficitur in ac neque.&lt;/p&gt;
+[/av_textblock]
+
+[av_button label='En savoir plus sur qui nous sommes' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,http://' link_target='' size='large' position='center' label_display='' title_attr='' color_options='' color='custom' custom_bg='#003e7d' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kim57lcr' admin_preview_bg='']
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='right-to-left' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='av-hide-on-mobile' id='' custom_class='' aria_label='' av_uid='av-kilkwlxs']
+
+[/av_one_fifth][av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='30' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kilh8lon' admin_preview_bg='']
+
+[av_partner heading='' type='grid' navigation='arrows' size='no scaling' img_size_behave='' border='av-border-deactivate' columns='6' heading_tag='' heading_class='' animation='slide' autoplay='false' interval='5' lazy_loading='disabled' el_id='' custom_class='' av_uid='av-kikbivbt']
+[av_partner_logo id='1736' hover='' link='' linktitle='' link_target='' av_uid='av-b84v17']
+[av_partner_logo id='1738' hover='' link='' linktitle='' link_target='' av_uid='av-8q7z97']
+[av_partner_logo id='1739' hover='' link='' linktitle='' link_target='' av_uid='av-6uc4uz']
+[av_partner_logo id='1740' hover='' link='' linktitle='' link_target='' av_uid='av-62a6u3']
+[av_partner_logo id='1742' hover='' link='' linktitle='' link_target='' av_uid='av-3z82ln']
+[av_partner_logo id='1743' hover='' link='' linktitle='' link_target='' av_uid='av-23sawr']
+[/av_partner]
+[/av_section]
+
+]]></content>
+    <excerpt></excerpt>
+    <date><![CDATA[6 January, 2021]]></date>
+    <posttype><![CDATA[page]]></posttype>
+    <permalink><![CDATA[https://aeon.blvckpixel.com/]]></permalink>
+    <_av_alb_element_mgr_version></_av_alb_element_mgr_version>
+    <_av_alb_posts_elements_state><![CDATA[a:19:{s:12:&quot;av_buttonrow&quot;;b:1;s:9:&quot;av_button&quot;;b:1;s:10:&quot;av_gallery&quot;;b:1;s:10:&quot;av_heading&quot;;b:1;s:5:&quot;av_hr&quot;;b:1;s:8:&quot;av_image&quot;;b:1;s:10:&quot;av_partner&quot;;b:1;s:18:&quot;av_masonry_entries&quot;;b:1;s:12:&quot;av_slideshow&quot;;b:1;s:11:&quot;av_one_full&quot;;b:1;s:12:&quot;av_one_third&quot;;b:1;s:12:&quot;av_two_third&quot;;b:1;s:12:&quot;av_one_fifth&quot;;b:1;s:14:&quot;av_three_fifth&quot;;b:1;s:10:&quot;av_section&quot;;b:1;s:12:&quot;av_textblock&quot;;b:1;s:17:&quot;av_buttonrow_item&quot;;b:1;s:15:&quot;av_partner_logo&quot;;b:1;s:8:&quot;av_slide&quot;;b:1;}]]></_av_alb_posts_elements_state>
+    <_av_el_mgr_version><![CDATA[1.0]]></_av_el_mgr_version>
+    <_avia_builder_shortcode_tree><![CDATA[a:4:{i:0;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_section&quot;;s:7:&quot;content&quot;;a:3:{i:0;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_textblock&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:1;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_slideshow&quot;;s:7:&quot;content&quot;;a:2:{i:0;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_buttonrow&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:3;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_buttonrow&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:4;}}s:5:&quot;index&quot;;i:2;}i:2;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:5;}}s:5:&quot;index&quot;;i:0;}i:1;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_section&quot;;s:7:&quot;content&quot;;a:2:{i:0;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:7;}i:1;a:3:{s:3:&quot;tag&quot;;s:11:&quot;av_one_full&quot;;s:7:&quot;content&quot;;a:2:{i:0;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_textblock&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:9;}i:1;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_gallery&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:10;}}s:5:&quot;index&quot;;i:8;}}s:5:&quot;index&quot;;i:6;}i:2;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_section&quot;;s:7:&quot;content&quot;;a:9:{i:0;a:3:{s:3:&quot;tag&quot;;s:8:&quot;av_image&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:12;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_one_third&quot;;s:7:&quot;content&quot;;a:4:{i:0;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_heading&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:14;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_textblock&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:15;}i:2;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:16;}i:3;a:3:{s:3:&quot;tag&quot;;s:9:&quot;av_button&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:17;}}s:5:&quot;index&quot;;i:13;}i:2;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_two_third&quot;;s:7:&quot;content&quot;;a:1:{i:0;a:3:{s:3:&quot;tag&quot;;s:18:&quot;av_masonry_entries&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:19;}}s:5:&quot;index&quot;;i:18;}i:3;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:20;}i:4;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_two_third&quot;;s:7:&quot;content&quot;;a:1:{i:0;a:3:{s:3:&quot;tag&quot;;s:18:&quot;av_masonry_entries&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:22;}}s:5:&quot;index&quot;;i:21;}i:5;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_one_third&quot;;s:7:&quot;content&quot;;a:4:{i:0;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_heading&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:24;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_textblock&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:25;}i:2;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:26;}i:3;a:3:{s:3:&quot;tag&quot;;s:9:&quot;av_button&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:27;}}s:5:&quot;index&quot;;i:23;}i:6;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:28;}i:7;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_one_third&quot;;s:7:&quot;content&quot;;a:4:{i:0;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_heading&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:30;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_textblock&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:31;}i:2;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:32;}i:3;a:3:{s:3:&quot;tag&quot;;s:9:&quot;av_button&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:33;}}s:5:&quot;index&quot;;i:29;}i:8;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_two_third&quot;;s:7:&quot;content&quot;;a:1:{i:0;a:3:{s:3:&quot;tag&quot;;s:18:&quot;av_masonry_entries&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:35;}}s:5:&quot;index&quot;;i:34;}}s:5:&quot;index&quot;;i:11;}i:3;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_section&quot;;s:7:&quot;content&quot;;a:5:{i:0;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_one_fifth&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:37;}i:1;a:3:{s:3:&quot;tag&quot;;s:14:&quot;av_three_fifth&quot;;s:7:&quot;content&quot;;a:3:{i:0;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_heading&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:39;}i:1;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_textblock&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:40;}i:2;a:3:{s:3:&quot;tag&quot;;s:9:&quot;av_button&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:41;}}s:5:&quot;index&quot;;i:38;}i:2;a:3:{s:3:&quot;tag&quot;;s:12:&quot;av_one_fifth&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:42;}i:3;a:3:{s:3:&quot;tag&quot;;s:5:&quot;av_hr&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:43;}i:4;a:3:{s:3:&quot;tag&quot;;s:10:&quot;av_partner&quot;;s:7:&quot;content&quot;;a:0:{}s:5:&quot;index&quot;;i:44;}}s:5:&quot;index&quot;;i:36;}}]]></_avia_builder_shortcode_tree>
+    <_avia_sc_parser_state><![CDATA[check_only]]></_avia_sc_parser_state>
+    <_avialayoutbuilder_active><![CDATA[active]]></_avialayoutbuilder_active>
+    <_avialayoutbuildercleandata><![CDATA[[av_section min_height='100' min_height_pc='25' min_height_px='500px' padding='default' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_gradient' custom_bg='' background_gradient_color1='#225fa1' background_gradient_color2='#0a2d5b' background_gradient_direction='diagonal_tb' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.1' overlay_color='' overlay_pattern='custom' overlay_custom_pattern='https://aeon.blvckpixel.com/wp-content/uploads/2021/01/teknow-overlay.png' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-home' custom_class='' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kik47zdk']
+[av_textblock size='18' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' id='' custom_class='' av_uid='av-kikb6psv' admin_preview_bg='']
+&lt;p style=&quot;text-align: center; color: white; margin: revert;&quot;&gt;Comprendre les enjeux, comparer les solutions et partenaires,&lt;/p&gt;
+&lt;p style=&quot;text-align: center; font-family: 'avenir-black'; font-size: 25px; line-height: 35px; margin: revert;&quot;&gt;&lt;strong&gt;disposer de préconisations pour accélérer la prise de décision.&lt;/strong&gt;&lt;/p&gt;
+[/av_textblock]
+
+[av_slideshow size='featured' control_layout='av-control-default' conditional_play='' animation='slide' transition_speed='' autoplay='false' interval='5' lazy_loading='disabled' alb_description='' id='' custom_class='' av_uid='av-kjonl8sg']
+[av_slide slide_type='image' id='1907' video='https://' mobile_image='' fallback_link='https://' title='&lt;span&gt;Featured Whitepaper&lt;/span&gt; Gestion de Crise' video_ratio='16:9' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' heading_tag='' heading_class='' link_apply='' link='lightbox' link_target='' av_uid='av-4ed4ij']
+Adapter son systèmes d'information à une crise majeure ou une pandèmie
+
+[av_buttonrow alignment='left' button_spacing='5' button_spacing_unit='px' alb_description='' id='pm-doublebutton' custom_class=''slider-custom av_uid='av-kik4xkei' admin_preview_bg='']
+[av_buttonrow_item label='prévisualiser cet article
+' icon_select='no' icon='4' font='entypo-fontello' link='manually,http://' link_target='' size='large' label_display='' title_attr='' color_options='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-672f']
+[av_buttonrow_item label='Devenir membre' icon_select='yes-right-icon' icon='ue879' font='entypo-fontello' link='manually,/become-member/' link_target='' size='large' label_display='' title_attr='' color_options='' color='light' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-zt6z']
+[/av_buttonrow]
+[/av_slide]
+[av_slide slide_type='image' id='1907' video='https://' mobile_image='' fallback_link='https://' title='&lt;span&gt;Featured Whitepaper&lt;/span&gt; Gestion de Crise' video_ratio='16:9' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' heading_tag='' heading_class='' link_apply='' link='lightbox' link_target='' av_uid='av-2zjcln']
+Adapter son systèmes d'information à une crise majeure ou une pandèmie
+
+[av_buttonrow alignment='left' button_spacing='5' button_spacing_unit='px' alb_description='' id='pm-doublebutton' custom_class='' av_uid='av-kik4xkei' admin_preview_bg='']
+[av_buttonrow_item label='prévisualiser cet article
+' icon_select='no' icon='4' font='entypo-fontello' link='manually,http://' link_target='' size='large' label_display='' title_attr='' color_options='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-672f']
+[av_buttonrow_item label='Devenir membre' icon_select='yes-right-icon' icon='ue879' font='entypo-fontello' link='manually,/become-member/' link_target='' size='large' label_display='' title_attr='' color_options='' color='light' custom_bg='#444444' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' av_uid='av-zt6z']
+[/av_buttonrow]
+[/av_slide]
+[/av_slideshow]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='50' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kike9pj3' admin_preview_bg='']
+[/av_section]
+
+[av_section min_height='25' min_height_pc='25' min_height_px='500px' padding='no-padding' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='http://aeon.blvckpixel.com/wp-content/uploads/2021/01/dot-bg1.jpg' attachment='1710' attachment_size='full' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.6' overlay_color='#ffffff' overlay_pattern='' overlay_custom_pattern='' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-homesectors' custom_class='' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kik9wpiq']
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='50' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kike9pj3' admin_preview_bg='']
+
+[av_one_full first min_height='' vertical_alignment='' space='' row_boxshadow='' row_boxshadow_color='' row_boxshadow_width='10' custom_margin='' margin='0px' mobile_breaking='' border='' border_color='' radius='0px' padding='0px' column_boxshadow='' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' background_position='top left' background_repeat='no-repeat' highlight='' highlight_size='' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-1vwiuz']
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' av-small-hide='aviaTBav-small-hide' av-mini-hide='aviaTBav-mini-hide' id='' custom_class='' av_uid='av-kikb6psv' admin_preview_bg='']
+&lt;p style=&quot;text-align: center;&quot;&gt;[theta-carousel id='1719']&lt;/p&gt;
+[/av_textblock]
+
+[av_gallery ids='347,346,345,344,342,475,343,341,340' style='thumbnails' preview_size='portfolio' crop_big_preview_thumbnail='avia-gallery-big-crop-thumb' thumb_size='no scaling' columns='2' imagelink='custom_link' link_dest='' lightbox_text='caption' lazyload='avia_lazyload' html_lazy_loading='disabled' av-desktop-hide='aviaTBav-desktop-hide' av-medium-hide='aviaTBav-medium-hide' alb_description='' id='' custom_class='' av_uid='av-kin42cvl' admin_preview_bg='']
+
+[/av_one_full]
+[/av_section]
+
+[av_section min_height='' min_height_pc='25' min_height_px='500px' padding='default' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='http://aeon.blvckpixel.com/wp-content/uploads/2021/01/myteknow-bg-1.jpg' attachment='1712' attachment_size='full' attach='fixed' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-services' custom_class='pm-fullwidth' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kikbodn2']
+
+[av_image src='https://aeon.blvckpixel.com/wp-content/uploads/2021/01/white-border-1.png' attachment='2278' attachment_size='full' copyright='' caption='' styling='' align='center' font_size='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' hover='' appearance='' link='' target='' title_attr='' alt_attr='' lazy_loading='disabled' id='' custom_class='' av_element_hidden_in_editor='0' av_uid='av-kikbo438' admin_preview_bg=''][/av_image]
+
+[av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='left-to-right' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kikct0h0']
+
+[av_heading heading='Actualités' tag='h2' link='' link_target='' style='blockquote modern-quote' size='' subheading_active='subheading_above' subheading_size='' margin='' padding='10' icon_padding='10' color='custom-color-heading' custom_font='#ffffff' icon_color='' show_icon='' icon='ue800' font='' icon_size='' custom_class='' id='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='' av_uid='av-62tha3']
+Rester informé
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='custom' color='rgba(255,255,255,0.6)' id='' custom_class='' av_uid='av-kik4s6u2' admin_preview_bg='']
+&lt;div class=&quot;raw_components--panel--3IcXg inspect_panels--inspectionPanel--3Wboz&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ&quot;&gt;Vous venez d'investir dans un véhicule neuf, celui de vos rêves, et vous l'emmenez en voyage à travers le Canada. Vous ne mettez que du gaz dedans et conduisez des visites touristiques et suivez votre nez. Les filtres et les changements d'huile sont ignorés. La voiture tombe en panne au milieu de ce long tronçon de route entre le Manitoba et ...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[/av_textblock]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='20' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kikdehhm' admin_preview_bg='']
+
+[av_button label='En savoir plus' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,https://aeon.blvckpixel.com/nouvelles/' link_target='' size='large' position='left' label_display='' title_attr='' color_options='' color='custom' custom_bg='#ffffff' custom_font='#0d3260' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kikddoen' admin_preview_bg='']
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0' padding_sync='true' column_boxshadow_color='rgba(10,10,10,0.4)' column_boxshadow_width='20' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilew7rd']
+
+[av_masonry_entries post_type='news' link='post_tag,290,282,111,287,283,195,42,43,289,44,106,288,110,109' wc_prod_visible='' wc_prod_hidden='hide' wc_prod_featured='' prod_order_by='' prod_order='' date_filter='' date_filter_start='' date_filter_end='' date_filter_format='yy/mm/dd' sort='no' query_orderby='date' query_order='ASC' caption_elements='title' caption_styling='' caption_display='always' size='fixed' orientation='' gap='large' columns='2' av-medium-columns='' av-small-columns='' av-mini-columns='' items='4' paginate='none' color='' custom_bg='' overlay_fx='active' animation='active' lazy_loading='disabled' id='' custom_class='' av_uid='av-kileifbg']
+
+[/av_two_third][av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='30' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kilfxt3v' admin_preview_bg='']
+
+[av_two_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0' padding_sync='true' column_boxshadow_color='rgba(10,10,10,0.4)' column_boxshadow_width='20' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilew7rd']
+
+[av_masonry_entries post_type='event' link='post_tag,290,282,111,287,283,195,42,43,289,44,106,288,110,109' wc_prod_visible='' wc_prod_hidden='hide' wc_prod_featured='' prod_order_by='' prod_order='' date_filter='' date_filter_start='' date_filter_end='' date_filter_format='yy/mm/dd' sort='no' query_orderby='date' query_order='ASC' caption_elements='title' caption_styling='' caption_display='always' size='fixed' orientation='' gap='large' columns='2' av-medium-columns='' av-small-columns='' av-mini-columns='' items='4' paginate='none' color='' custom_bg='' overlay_fx='active' animation='active' lazy_loading='disabled' id='' custom_class='' av_uid='av-kileifbg']
+
+[/av_two_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='right-to-left' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kikct0h0']
+
+[av_heading heading='Evénements' tag='h2' link='' link_target='' style='blockquote modern-quote' size='' subheading_active='subheading_above' subheading_size='' margin='' padding='10' icon_padding='10' color='custom-color-heading' custom_font='#ffffff' icon_color='' show_icon='' icon='ue800' font='' icon_size='' custom_class='' id='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='' av_uid='av-3pycpn']
+Être impliqué
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='custom' color='rgba(255,255,255,0.6)' id='' custom_class='' av_uid='av-kik4s6u2' admin_preview_bg='']
+&lt;div class=&quot;raw_components--panel--3IcXg inspect_panels--inspectionPanel--3Wboz&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ&quot;&gt;Vous venez d'investir dans un véhicule neuf, celui de vos rêves, et vous l'emmenez en voyage à travers le Canada. Vous ne mettez que du gaz dedans et conduisez des visites touristiques et suivez votre nez. Les filtres et les changements d'huile sont ignorés. La voiture tombe en panne au milieu de ce long tronçon de route entre le Manitoba et ...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[/av_textblock]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='20' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kikdehhm' admin_preview_bg='']
+
+[av_button label='En savoir plus' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,https://aeon.blvckpixel.com/events/' link_target='' size='large' position='left' label_display='' title_attr='' color_options='' color='custom' custom_bg='#ffffff' custom_font='#0d3260' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kikddoen' admin_preview_bg='']
+
+[/av_one_third][av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='30' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kilfxt3v' admin_preview_bg='']
+
+[av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='left-to-right' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kikct0h0']
+
+[av_heading heading='Des articles' tag='h2' link='' link_target='' style='blockquote modern-quote' size='' subheading_active='subheading_above' subheading_size='' margin='' padding='10' icon_padding='10' color='custom-color-heading' custom_font='#ffffff' icon_color='' show_icon='' icon='ue800' font='' icon_size='' custom_class='' id='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='' av_uid='av-2my15n']
+Lire la dernière
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='custom' color='rgba(255,255,255,0.6)' id='' custom_class='' av_uid='av-kik4s6u2' admin_preview_bg='']
+&lt;div class=&quot;raw_components--panel--3IcXg inspect_panels--inspectionPanel--3Wboz&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S&quot;&gt;
+&lt;div class=&quot;inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ&quot;&gt;Vous venez d'investir dans un véhicule neuf, celui de vos rêves, et vous l'emmenez en voyage à travers le Canada. Vous ne mettez que du gaz dedans et conduisez des visites touristiques et suivez votre nez. Les filtres et les changements d'huile sont ignorés. La voiture tombe en panne au milieu de ce long tronçon de route entre le Manitoba et ...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[/av_textblock]
+
+[av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='20' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kikdehhm' admin_preview_bg='']
+
+[av_button label='En savoir plus' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,https://aeon.blvckpixel.com/articles/' link_target='' size='large' position='left' label_display='' title_attr='' color_options='' color='custom' custom_bg='#ffffff' custom_font='#0d3260' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kikddoen' admin_preview_bg='']
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0' padding_sync='true' column_boxshadow_color='rgba(10,10,10,0.4)' column_boxshadow_width='20' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilew7rd']
+
+[av_masonry_entries post_type='article' link='post_tag,290,282,111,287,283,195,42,43,289,44,106,288,110,109' wc_prod_visible='' wc_prod_hidden='hide' wc_prod_featured='' prod_order_by='' prod_order='' date_filter='' date_filter_start='' date_filter_end='' date_filter_format='yy/mm/dd' sort='no' query_orderby='date' query_order='ASC' caption_elements='title' caption_styling='' caption_display='always' size='fixed' orientation='' gap='large' columns='2' av-medium-columns='' av-small-columns='' av-mini-columns='' items='4' paginate='none' color='' custom_bg='' overlay_fx='active' animation='active' lazy_loading='disabled' id='' custom_class='' av_uid='av-kileifbg']
+
+[/av_two_third][/av_section][av_section min_height='' min_height_pc='25' min_height_px='500px' padding='large' custom_margin='0px' custom_margin_sync='true' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='http://13.58.129.79/wp-content/uploads/2020/12/dot-bg2.jpg' attachment='488' attachment_size='full' attach='scroll' position='top right' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.6' overlay_color='#ffffff' overlay_pattern='' overlay_custom_pattern='' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='pm-about' custom_class='' aria_label='' av_element_hidden_in_editor='0' av_uid='av-kilh4h4d']
+[av_one_fifth first min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='right-to-left' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='av-hide-on-mobile' id='' custom_class='' aria_label='' av_uid='av-kilkwlxs']
+
+[/av_one_fifth][av_three_fifth min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='fade-in' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='' id='' custom_class='' aria_label='' av_uid='av-kilh6ce2']
+
+[av_heading heading='Qu’est-ce que Myteknow?' tag='h2' style='blockquote modern-quote modern-centered' subheading_active='subheading_above' show_icon='' icon='ue800' font='' size='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' subheading_size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' icon_size='' av-medium-font-size-1='' av-small-font-size-1='' av-mini-font-size-1='' color='' custom_font='' icon_color='' margin='' margin_sync='true' padding='10' icon_padding='10' link='' link_target='' id='' custom_class='' av_uid='av-kjskj3mz' admin_preview_bg='']
+Découvrez comment nous pouvons vous aider
+[/av_heading]
+
+[av_textblock size='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' font_color='' color='' id='' custom_class='' av_uid='av-kilh3zf6' admin_preview_bg='']
+&lt;p style=&quot;text-align: center;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida malesuada ullamcorper. Cras et elit imperdiet, semper purus eu, ullamcorper ipsum. Duis at risus et velit tincidunt efficitur in ac neque.&lt;/p&gt;
+[/av_textblock]
+
+[av_button label='En savoir plus sur qui nous sommes' icon_select='no' icon='ue800' font='entypo-fontello' link='manually,http://' link_target='' size='large' position='center' label_display='' title_attr='' color_options='' color='custom' custom_bg='#003e7d' custom_font='#ffffff' btn_color_bg='theme-color' btn_custom_bg='#444444' btn_color_bg_hover='theme-color-highlight' btn_custom_bg_hover='#444444' btn_color_font='theme-color' btn_custom_font='#ffffff' id='' custom_class='' av_uid='av-kim57lcr' admin_preview_bg='']
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' row_boxshadow_color='' row_boxshadow_width='10' margin='0px' margin_sync='true' mobile_breaking='' border='' border_color='' radius='0px' radius_sync='true' padding='0px' padding_sync='true' column_boxshadow_color='' column_boxshadow_width='10' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' highlight_size='1.1' animation='right-to-left' link='' linktarget='' link_hover='' title_attr='' alt_attr='' mobile_display='av-hide-on-mobile' id='' custom_class='' aria_label='' av_uid='av-kilkwlxs']
+
+[/av_one_fifth][av_hr class='invisible' icon_select='yes' icon='ue808' font='entypo-fontello' position='center' shadow='no-shadow' height='30' custom_border='av-border-thin' custom_width='50px' custom_margin_top='30px' custom_margin_bottom='30px' custom_border_color='' custom_icon_color='' id='' custom_class='' av_uid='av-kilh8lon' admin_preview_bg='']
+
+[av_partner heading='' type='grid' navigation='arrows' size='no scaling' img_size_behave='' border='av-border-deactivate' columns='6' heading_tag='' heading_class='' animation='slide' autoplay='false' interval='5' lazy_loading='disabled' el_id='' custom_class='' av_uid='av-kikbivbt']
+[av_partner_logo id='1736' hover='' link='' linktitle='' link_target='' av_uid='av-b84v17']
+[av_partner_logo id='1738' hover='' link='' linktitle='' link_target='' av_uid='av-8q7z97']
+[av_partner_logo id='1739' hover='' link='' linktitle='' link_target='' av_uid='av-6uc4uz']
+[av_partner_logo id='1740' hover='' link='' linktitle='' link_target='' av_uid='av-62a6u3']
+[av_partner_logo id='1742' hover='' link='' linktitle='' link_target='' av_uid='av-3z82ln']
+[av_partner_logo id='1743' hover='' link='' linktitle='' link_target='' av_uid='av-23sawr']
+[/av_partner]
+[/av_section]
+
+]]></_avialayoutbuildercleandata>
+    <_calender_icon></_calender_icon>
+    <_ended_event_title></_ended_event_title>
+    <_header></_header>
+    <_location_icon></_location_icon>
+    <_online_icon></_online_icon>
+    <_page_title></_page_title>
+    <_read_more_button_text></_read_more_button_text>
+    <_register_button_text></_register_button_text>
+    <_small_slider_logo_and_text></_small_slider_logo_and_text>
+    <_small_slider_logo_and_text_0_small_slider_image></_small_slider_logo_and_text_0_small_slider_image>
+    <_small_slider_logo_and_text_0_small_slider_title></_small_slider_logo_and_text_0_small_slider_title>
+    <_small_slider_logo_and_text_1_small_slider_image></_small_slider_logo_and_text_1_small_slider_image>
+    <_small_slider_logo_and_text_1_small_slider_title></_small_slider_logo_and_text_1_small_slider_title>
+    <_small_slider_logo_and_text_2_small_slider_image></_small_slider_logo_and_text_2_small_slider_image>
+    <_small_slider_logo_and_text_2_small_slider_title></_small_slider_logo_and_text_2_small_slider_title>
+    <_small_slider_logo_and_text_3_small_slider_image></_small_slider_logo_and_text_3_small_slider_image>
+    <_small_slider_logo_and_text_3_small_slider_title></_small_slider_logo_and_text_3_small_slider_title>
+    <_small_slider_logo_and_text_4_small_slider_image></_small_slider_logo_and_text_4_small_slider_image>
+    <_small_slider_logo_and_text_4_small_slider_title></_small_slider_logo_and_text_4_small_slider_title>
+    <_sub_header></_sub_header>
+    <_thumbnail_id></_thumbnail_id>
+    <_time_icon></_time_icon>
+    <_wp_desired_post_slug></_wp_desired_post_slug>
+    <_wp_page_template><![CDATA[default]]></_wp_page_template>
+    <_wp_trash_meta_status></_wp_trash_meta_status>
+    <_wp_trash_meta_time></_wp_trash_meta_time>
+    <_yoast_wpseo_content_score><![CDATA[60]]></_yoast_wpseo_content_score>
+    <_yoast_wpseo_estimatedreadingtimeminutes></_yoast_wpseo_estimatedreadingtimeminutes>
+    <calender_icon></calender_icon>
+    <ended_event_title></ended_event_title>
+    <footer></footer>
+    <header></header>
+    <header_title_bar></header_title_bar>
+    <header_transparency><![CDATA[header_transparent header_glassy ]]></header_transparency>
+    <inline_featured_image><![CDATA[0]]></inline_featured_image>
+    <layout></layout>
+    <location_icon></location_icon>
+    <ocean_center_header_left_menu></ocean_center_header_left_menu>
+    <ocean_custom_footer_template></ocean_custom_footer_template>
+    <ocean_custom_header_template></ocean_custom_header_template>
+    <ocean_disable_breadcrumbs></ocean_disable_breadcrumbs>
+    <ocean_disable_heading></ocean_disable_heading>
+    <ocean_disable_margins></ocean_disable_margins>
+    <ocean_disable_title></ocean_disable_title>
+    <ocean_display_footer_bottom></ocean_display_footer_bottom>
+    <ocean_display_footer_widgets></ocean_display_footer_widgets>
+    <ocean_display_header></ocean_display_header>
+    <ocean_display_top_bar></ocean_display_top_bar>
+    <ocean_header_custom_menu></ocean_header_custom_menu>
+    <ocean_menu_typo_font_family></ocean_menu_typo_font_family>
+    <ocean_post_layout></ocean_post_layout>
+    <ocean_second_sidebar></ocean_second_sidebar>
+    <ocean_sidebar></ocean_sidebar>
+    <online_icon></online_icon>
+    <page_title></page_title>
+    <panels_data></panels_data>
+    <ppma_authors_name><![CDATA[Gagandeep Singh Ahuja]]></ppma_authors_name>
+    <read_more_button_text></read_more_button_text>
+    <register_button_text></register_button_text>
+    <sidebar></sidebar>
+    <small_slider_logo_and_text></small_slider_logo_and_text>
+    <small_slider_logo_and_text_0_small_slider_image></small_slider_logo_and_text_0_small_slider_image>
+    <small_slider_logo_and_text_0_small_slider_title></small_slider_logo_and_text_0_small_slider_title>
+    <small_slider_logo_and_text_1_small_slider_image></small_slider_logo_and_text_1_small_slider_image>
+    <small_slider_logo_and_text_1_small_slider_title></small_slider_logo_and_text_1_small_slider_title>
+    <small_slider_logo_and_text_2_small_slider_image></small_slider_logo_and_text_2_small_slider_image>
+    <small_slider_logo_and_text_2_small_slider_title></small_slider_logo_and_text_2_small_slider_title>
+    <small_slider_logo_and_text_3_small_slider_image></small_slider_logo_and_text_3_small_slider_image>
+    <small_slider_logo_and_text_3_small_slider_title></small_slider_logo_and_text_3_small_slider_title>
+    <small_slider_logo_and_text_4_small_slider_image></small_slider_logo_and_text_4_small_slider_image>
+    <small_slider_logo_and_text_4_small_slider_title></small_slider_logo_and_text_4_small_slider_title>
+    <sub_header></sub_header>
+    <time_icon></time_icon>
+    <um_content_restriction><![CDATA[a:8:{s:26:&quot;_um_custom_access_settings&quot;;s:1:&quot;0&quot;;s:14:&quot;_um_accessible&quot;;s:1:&quot;0&quot;;s:19:&quot;_um_noaccess_action&quot;;s:1:&quot;0&quot;;s:30:&quot;_um_restrict_by_custom_message&quot;;s:1:&quot;0&quot;;s:27:&quot;_um_restrict_custom_message&quot;;s:0:&quot;&quot;;s:19:&quot;_um_access_redirect&quot;;s:1:&quot;0&quot;;s:23:&quot;_um_access_redirect_url&quot;;s:0:&quot;&quot;;s:28:&quot;_um_access_hide_from_queries&quot;;s:1:&quot;0&quot;;}]]></um_content_restriction>
+    <folders></folders>
+    <authors><![CDATA[Gagandeep Singh Ahuja]]></authors>
+    <imageurl><![CDATA[https://aeon.blvckpixel.com/wp-content/uploads/2021/01/white-border-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/teknow-overlay.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/research-software.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/6-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/5-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/4-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/3-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/2-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/1-1.png||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/myteknow-bg-1.jpg||https://aeon.blvckpixel.com/wp-content/uploads/2021/01/dot-bg1.jpg]]></imageurl>
+    <imagesfilename><![CDATA[white-border-1.png||teknow-overlay.png||research-software.png||6-1.png||5-1.png||4-1.png||3-1.png||2-1.png||1-1.png||myteknow-bg-1.jpg||dot-bg1.jpg]]></imagesfilename>
+    <imagespath><![CDATA[/var/www/html/wp-content/uploads/2021/01/white-border-1.png||/var/www/html/wp-content/uploads/2021/01/teknow-overlay.png||/var/www/html/wp-content/uploads/2021/01/research-software.png||/var/www/html/wp-content/uploads/2021/01/6-1.png||/var/www/html/wp-content/uploads/2021/01/5-1.png||/var/www/html/wp-content/uploads/2021/01/4-1.png||/var/www/html/wp-content/uploads/2021/01/3-1.png||/var/www/html/wp-content/uploads/2021/01/2-1.png||/var/www/html/wp-content/uploads/2021/01/1-1.png||/var/www/html/wp-content/uploads/2021/01/myteknow-bg-1.jpg||/var/www/html/wp-content/uploads/2021/01/dot-bg1.jpg]]></imagespath>
+    <imagesid><![CDATA[2278||2268||1907||1743||1742||1740||1739||1738||1736||1712||1710]]></imagesid>
+    <imagestitle><![CDATA[white-border||teknow-overlay||research-software||6||5||4||3||2||1||myteknow-bg||dot-bg1]]></imagestitle>
+    <imagescaption></imagescaption>
+    <imagesdescription></imagesdescription>
+    <imagesalttext></imagesalttext>
+    <attachmenturl></attachmenturl>
+    <attachmentsfilename></attachmentsfilename>
+    <attachmentspath></attachmentspath>
+    <attachmentsid></attachmentsid>
+    <attachmentstitle></attachmentstitle>
+    <attachmentscaption></attachmentscaption>
+    <attachmentsdescription></attachmentsdescription>
+    <attachmentsalttext></attachmentsalttext>
+    <status><![CDATA[publish]]></status>
+    <authorid><![CDATA[32]]></authorid>
+    <authorusername><![CDATA[gagan]]></authorusername>
+    <authoremail><![CDATA[gagandeep.ahuja@blvckpixel.com]]></authoremail>
+    <authorfirstname><![CDATA[Gagandeep Singh]]></authorfirstname>
+    <authorlastname><![CDATA[Ahuja]]></authorlastname>
+    <slug><![CDATA[homepage-2]]></slug>
+    <format></format>
+    <template><![CDATA[default]]></template>
+    <parent><![CDATA[0]]></parent>
+    <parentslug><![CDATA[0]]></parentslug>
+    <order><![CDATA[0]]></order>
+    <commentstatus><![CDATA[closed]]></commentstatus>
+    <pingstatus><![CDATA[closed]]></pingstatus>
+    <postmodifieddate><![CDATA[14 January, 2021]]></postmodifieddate>
+  </item>
+</wpiedata>

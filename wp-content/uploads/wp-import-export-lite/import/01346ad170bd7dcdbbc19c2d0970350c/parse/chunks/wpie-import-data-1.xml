@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <termid><![CDATA[312]]></termid>
+    <termname><![CDATA[World]]></termname>
+    <termslug><![CDATA[world]]></termslug>
+    <description><![CDATA[World]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[313]]></termid>
+    <termname><![CDATA[Europe]]></termname>
+    <termslug><![CDATA[europe]]></termslug>
+    <description><![CDATA[Europe]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[1]]></count>
+  </item>
+  <item>
+    <termid><![CDATA[314]]></termid>
+    <termname><![CDATA[France]]></termname>
+    <termslug><![CDATA[france]]></termslug>
+    <description><![CDATA[France]]></description>
+    <parentid><![CDATA[0]]></parentid>
+    <parentname/>
+    <parentslug/>
+    <count><![CDATA[0]]></count>
+  </item>
+</wpiedata>

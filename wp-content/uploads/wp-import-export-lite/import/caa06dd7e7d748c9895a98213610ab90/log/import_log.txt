@@ -1,0 +1,18 @@
+[11:26:23] <strong>Record</strong> #1
+[11:26:24] user #10 Successfully Imported
+[11:26:24] <strong>Record</strong> #2
+[11:26:24] Existing item found #3
+[11:26:24] user #3 Successfully Imported
+[11:26:24] <strong>Record</strong> #3
+[11:26:24] Existing item found #1
+[11:26:24] <strong>Warning</strong> : Can't update current Login user
+[11:26:24] <strong>Record</strong> #4
+[11:26:24] user #11 Successfully Imported
+[11:26:24] <strong>Record</strong> #5
+[11:26:24] user #12 Successfully Imported
+[11:26:24] <strong>Record</strong> #6
+[11:26:24] user #13 Successfully Imported
+[11:26:24] <strong>Record</strong> #7
+[11:26:24] user #14 Successfully Imported
+[11:26:24] <strong>Record</strong> #8
+[11:26:24] user #15 Successfully Imported

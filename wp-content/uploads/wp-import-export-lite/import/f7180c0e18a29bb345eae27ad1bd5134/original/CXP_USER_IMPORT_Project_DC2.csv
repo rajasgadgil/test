@@ -1,0 +1,10 @@
+User Login;User Email;First Name;Last Name;User Registered;User Nicename;User URL;Display Name;Nickname;Description;admin_color;description;first_name;last_name;nickname;User Role;User Pass;User Status
+celine.reviewer;celine.reviewer@teknowlogy.com;Céline;Reviewer;44214;celine.reviewer;;Céline Reviewer;celine.reviewer;;fresh;;Céline;Reviewer;celine.reviewer;cxp_reviewer;;0
+celine.publisher;celine.publisher@teknowlogy.com;Céline;Publisher;44214;celine.publisher;;Céline Publisher;celine.publisher;;fresh;;Céline;Publisher;celine.publisher;cxp_publisher;;0
+celine.integrator;celine.integrator@teknowlogy.com;Céline;Integrator;44214;celine.integrator;;Céline Integrator;celine.integrator;;fresh;;Céline;Integrator;celine.integrator;cxp_integrator;;0
+amandine.reviewer;amandine.reviewer@teknowlogy.com;Amandine;Reviewer;44214;amandine.reviewer;;Amandine Reviewer;amandine.reviewer;;fresh;;Amandine;Reviewer;amandine.reviewer;cxp_reviewer;;0
+amandine.publisher;amandine.publisher@teknowlogy.com;Amandine;Publisher;44214;amandine.publisher;;Amandine Publisher;amandine.publisher;;fresh;;Amandine;Publisher;amandine.publisher;cxp_publisher;;0
+amandine.integrator;amandine.integrator@teknowlogy.com;Amandine;Integrator;44214;amandine.integrator;;Amandine Integrator;amandine.integrator;;fresh;;Amandine;Integrator;amandine.integrator;cxp_integrator;;0
+david.reviewer;david.reviewer@teknowlogy.com;David;Reviewer;44214;david.reviewer;;David Reviewer;david.reviewer;;fresh;;David;Reviewer;david.reviewer;cxp_reviewer;;0
+david.publisher;david.publisher@teknowlogy.com;David;Publisher;44214;david.publisher;;David Publisher;david.publisher;;fresh;;David;Publisher;david.publisher;cxp_publisher;;0
+david.integrator;david.integrator@teknowlogy.com;David;Integrator;44214;david.integrator;;David Integrator;david.integrator;;fresh;;David;Integrator;david.integrator;cxp_integrator;;0

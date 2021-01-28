@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <userlogin><![CDATA[adja.sylla]]></userlogin>
+    <useremail><![CDATA[adja.sylla@aldemia.fr]]></useremail>
+    <firstname><![CDATA[Adja]]></firstname>
+    <lastname><![CDATA[Sylla]]></lastname>
+    <userregistered><![CDATA[12 January 2021]]></userregistered>
+    <usernicename><![CDATA[adja-sylla]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[Adja Sylla]]></displayname>
+    <nickname><![CDATA[adja.sylla]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Adja]]></first_name>
+    <last_name><![CDATA[Sylla]]></last_name>
+    <nickname_1><![CDATA[adja.sylla]]></nickname_1>
+    <userrole><![CDATA[administrator]]></userrole>
+    <userpass><![CDATA[$P$BXHtLYiO4O42W09IjcqT3tnlNVrkNj1]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[olivier]]></userlogin>
+    <useremail><![CDATA[olivier.lemoigne@aldemia.fr]]></useremail>
+    <firstname><![CDATA[Olivier]]></firstname>
+    <lastname><![CDATA[Lemoigne]]></lastname>
+    <userregistered><![CDATA[12 January 2021]]></userregistered>
+    <usernicename><![CDATA[olivier]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[Olivier Lemoigne]]></displayname>
+    <nickname><![CDATA[olivier]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Olivier]]></first_name>
+    <last_name><![CDATA[Lemoigne]]></last_name>
+    <nickname_1><![CDATA[olivier]]></nickname_1>
+    <userrole><![CDATA[administrator]]></userrole>
+    <userpass><![CDATA[$P$Bg74BGymGvnpon9fcaW7i6bObX9uNr0]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[patrice]]></userlogin>
+    <useremail><![CDATA[patrice.bouin@aldemia.fr]]></useremail>
+    <firstname><![CDATA[Patrice]]></firstname>
+    <lastname><![CDATA[Bouin]]></lastname>
+    <userregistered><![CDATA[12 January 2021]]></userregistered>
+    <usernicename><![CDATA[patrice]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[Patrice Bouin]]></displayname>
+    <nickname><![CDATA[patrice]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Patrice]]></first_name>
+    <last_name><![CDATA[Bouin]]></last_name>
+    <nickname_1><![CDATA[patrice]]></nickname_1>
+    <userrole><![CDATA[administrator]]></userrole>
+    <userpass><![CDATA[$P$BImIKIXhT4Zq53NNX0P7t0FvPrP48C/]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[camille]]></userlogin>
+    <useremail><![CDATA[camille.cxp@aldemia.fr]]></useremail>
+    <firstname><![CDATA[Camille]]></firstname>
+    <lastname><![CDATA[CASTOR]]></lastname>
+    <userregistered><![CDATA[12 January 2021]]></userregistered>
+    <usernicename><![CDATA[camille]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[Camille INTEGRATOR]]></displayname>
+    <nickname><![CDATA[Camille INTEGRATOR]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Camille]]></first_name>
+    <last_name><![CDATA[CASTOR]]></last_name>
+    <nickname_1><![CDATA[Camille INTEGRATOR]]></nickname_1>
+    <userrole><![CDATA[integrator]]></userrole>
+    <userpass><![CDATA[$P$BccLGy5KYQ/Y7rLU0s9IrrczFXnz/m/]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[curtain]]></userlogin>
+    <useremail><![CDATA[curtain.cxp@aldemia.fr]]></useremail>
+    <firstname><![CDATA[Curtain]]></firstname>
+    <lastname><![CDATA[CHEMIN]]></lastname>
+    <userregistered><![CDATA[12 January 2021]]></userregistered>
+    <usernicename><![CDATA[curtain]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[Curtain PUBLISHER]]></displayname>
+    <nickname><![CDATA[Curtain PUBLISHER]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Curtain]]></first_name>
+    <last_name><![CDATA[CHEMIN]]></last_name>
+    <nickname_1><![CDATA[Curtain PUBLISHER]]></nickname_1>
+    <userrole><![CDATA[publisher]]></userrole>
+    <userpass><![CDATA[$P$BcNsm97TsEg0gdQJ7VmqVVBL.oqVsE.]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[cindy]]></userlogin>
+    <useremail><![CDATA[cindy.cxp@aldemia.fr]]></useremail>
+    <firstname><![CDATA[Cindy]]></firstname>
+    <lastname><![CDATA[CAMELLE]]></lastname>
+    <userregistered><![CDATA[12 January 2021]]></userregistered>
+    <usernicename><![CDATA[cindy]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[Cindy REVIEWER]]></displayname>
+    <nickname><![CDATA[Cindy REVIEWER]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Cindy]]></first_name>
+    <last_name><![CDATA[CAMELLE]]></last_name>
+    <nickname_1><![CDATA[Cindy REVIEWER]]></nickname_1>
+    <userrole><![CDATA[reviewer]]></userrole>
+    <userpass><![CDATA[$P$BFA5rh0uq4/nEGxvpjR8yiaxoDrVo2/]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[david]]></userlogin>
+    <useremail><![CDATA[dcourtaigne@teknowlogy.com]]></useremail>
+    <firstname><![CDATA[David]]></firstname>
+    <lastname><![CDATA[COURTAIGNE]]></lastname>
+    <userregistered><![CDATA[13 January 2021]]></userregistered>
+    <usernicename><![CDATA[david]]></usernicename>
+    <userurl></userurl>
+    <displayname><![CDATA[David COURTAIGNE]]></displayname>
+    <nickname><![CDATA[david]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[David]]></first_name>
+    <last_name><![CDATA[COURTAIGNE]]></last_name>
+    <nickname_1><![CDATA[david]]></nickname_1>
+    <userrole><![CDATA[administrator]]></userrole>
+    <userpass><![CDATA[$P$BIIC7budWwAsr3tAqpuTGCbIDCo/7Q.]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+  <item>
+    <userlogin><![CDATA[celine]]></userlogin>
+    <useremail><![CDATA[cdufour@teknowlogy.com]]></useremail>
+    <firstname><![CDATA[Celine]]></firstname>
+    <lastname><![CDATA[DUFOUR]]></lastname>
+    <userregistered><![CDATA[14 January 2021]]></userregistered>
+    <usernicename><![CDATA[celine]]></usernicename>
+    <userurl><![CDATA[http://www.tecknowlogy.com]]></userurl>
+    <displayname><![CDATA[Celine DUFOUR]]></displayname>
+    <nickname><![CDATA[celine]]></nickname>
+    <description></description>
+    <admin_color><![CDATA[fresh]]></admin_color>
+    <description_1></description_1>
+    <first_name><![CDATA[Celine]]></first_name>
+    <last_name><![CDATA[DUFOUR]]></last_name>
+    <nickname_1><![CDATA[celine]]></nickname_1>
+    <userrole><![CDATA[myteknow_admin]]></userrole>
+    <userpass><![CDATA[$P$BzVT9kxkdNkuv0IbQzspg2ztB4p9MI.]]></userpass>
+    <userstatus><![CDATA[0]]></userstatus>
+  </item>
+</wpiedata>
